@@ -1,0 +1,21 @@
+# Job Transfer Request Form
+                            [color=#1b487e]╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝[/color]
+             [bold][head=2]Job Transfer Request Form[/head][/bold]
+══════════════════════════════════════════
+[bold]Name: [/bold][color=#1b67a5]Enter Your Full Name [/color]
+
+[bold]Old Job: [/bold][color=#1b67a5]Your old job[/color]
+[bold]New Job: [/bold][color=#1b67a5]Your new Job you like to switch to.[/color]
+
+══════════════════════════════════════════
+[bold]Reason:[/bold]
+[color=#1b67a5][mono]Reason for switching jobs.[/mono][/color]
+
+══════════════════════════════════════════
+[italic][color=#aaaaaa]Form requires dual authorization and official stamps for processing. Unstamped or unsigned forms will be rejected.[/italic][/color]

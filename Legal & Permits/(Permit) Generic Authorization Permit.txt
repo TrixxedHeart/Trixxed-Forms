@@ -1,0 +1,19 @@
+# Authorization Permit
+[color=#1b67a5]█▄ █▀█▀    [head=3]General Authorization Permit[/head]
+█ ▀█    █         [mono]ISSUED BY: NAME HERE[/mono]
+══════════════════════════════════════════[/color]
+This document serves to confirm that [bold][color=#1b67a5]RECIPIENT NAME[/color][/bold] is hereby authorized to:
+[center][color=#1b67a5]──────────────────────────────────────────
+DESCRIPTION OF AUTHORIZED ACTIVITY
+──────────────────────────────────────────[/color][/center]
+
+[head=3]TERMS & CONDITIONS[/head]
+1. This authorization is subject to all applicable Nanotrasen policies and station regulations
+2. The authorization may be revoked at any time at the discretion of command staff
+3. Recipient must carry this permit on their person at all times during authorized activities
+4. Any violation of corporate policy will result in immediate revocation and disciplinary action
+
+[head=3]AUTHORIZATION VALIDATION[/head]
+This permit is only valid when bearing the signature of the issuing officer, the recipient's acknowledgement signature, and an official Nanotrasen stamp.
+
+

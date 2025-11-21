@@ -1,0 +1,30 @@
+# Demotion Order
+                               [color=#1b487e]╔══════════════════╗
+                               ║███░███░░░░██░░░░░║
+                               ║░██░████░░░██░░░░░║
+                               ║░░█░██░██░░██░█░░░║
+                               ║░░░░██░░██░██░██░░║
+                               ║░░░░██░░░████░███░║
+                               ╚══════════════════╝[/color]
+              [bold][head=2]Personnel Demotion Order[/head][/bold]
+══════════════════════════════════════════
+The undersigned Command hereby authorizes the immediate demotion of:
+
+EMPLOYEE: [color=#1b67a5]Name[/color]
+CURRENT POSITION: [color=#1b67a5]Position[/color] 
+DEPARTMENT: [color=#1b67a5]Department[/color]
+
+REASON FOR DEMOTION (Check all applicable):
+\[ ] Gross Incompetence
+\[ ] Repeated SOP Violations  
+\[ ] Security Risk
+\[ ] Substandard Performance
+\[ ] Resource Mismanagement
+\[ ] Other:
+══════════════════════════════════════════
+DETAILED JUSTIFICATION:
+[color=#1b67a5][mono]DETAILS[/mono][/color]
+
+EFFECTIVE DEMOTION TO: [color=#1b67a5]New Position[/color]
+══════════════════════════════════════════
+[italic][color=#aaaaaa]This demotion order requires dual authorization from both the department head and Head of Personnel. The Captain or other relevant figure may substitute for either role, but not both. Form is invalid without proper stamps and filing.[/italic][/color]

@@ -1,0 +1,48 @@
+# Non-Disclosure Agreement
+                            [color=#1b67a5]╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝[/color]
+          [head=2][bold]NON-DISCLOSURE AGREEMENT[/bold][/head]
+══════════════════════════════════════════
+
+[head=3]PARTIES[/head]
+This Agreement is between [bold][color=#1b67a5]Nanotrasen[/color][/bold] (1st Party) and [bold][color=#1b67a5]EMPLOYEE NAME[/color][/bold] (2nd Party).
+
+[head=3]PURPOSE[/head]
+To prevent unauthorized disclosure of Confidential Information as defined by Corporate Policy.
+
+[head=3]AGREEMENT TYPE[/head]
+■ UNILATERAL - 1st Party discloses, 2nd Party protects
+
+[head=3]CONFIDENTIAL INFORMATION[/head]
+■ All proprietary Nanotrasen research and technology
+■ Command protocols and emergency procedures  
+■ Security systems and access codes
+■ Information marked "Confidential" or "Classified"
+
+[head=3]DURATION[/head]
+Obligations remain in effect until:
+■ Information is no longer proprietary
+■ Written release is provided by Nanotrasen Legal
+■ Station emergency protocol mandates disclosure
+
+[head=3]OBLIGATIONS[/head]
+2nd Party shall:
+• Maintain confidential information in strict confidence
+• Use only for authorized Nanotrasen purposes
+• Report suspected unauthorized disclosures
+• Return all materials upon request or termination
+
+[head=3]ENFORCEMENT[/head]
+Violation may result in immediate termination, legal action, and prosecution under corporate law.
+
+══════════════════════════════════════════
+
+[italic]Signatures below indicate understanding and acceptance of these terms.[/italic]
+
+        [mono]OFFICIAL STAMP REQUIRED FOR VALIDATION[/mono]
+══════════════════════════════════════════
