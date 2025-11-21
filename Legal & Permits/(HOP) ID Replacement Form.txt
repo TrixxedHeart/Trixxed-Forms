@@ -1,0 +1,32 @@
+# ID Replacement Form
+[color=#1b67a5]
+░▄██▄░
+░████░   [head=2]ID Replacement Form[/head]
+▄▄██▄▄   [mono]Issued by: Head of Personnel[/mono]
+══════════════════════════════════════════[/color]
+[head=2]Employee Information[/head]
+
+EMPLOYEE: [color=#1b67a5]Name[/color]
+CURRENT POSITION: [color=#1b67a5]Position[/color] 
+DEPARTMENT: [color=#1b67a5]Department[/color]
+
+[color=#1b67a5]══════════════════════════════════════════[/color]
+[head=2]Replacement Details[/head]
+
+[bold]Card Status:[/bold]
+\[ ] [bold]Lost[/bold]
+\[ ] [bold]Damaged[/bold]
+\[ ] [bold]Stolen[/bold]
+\[ ] [bold]Other:[/bold] [color=#1b67a5]fill this out if you select "other"[/color]
+
+[head=2]Detailed Circumstances:[/head]
+[color=#1b67a5]══════════════════════════════════════════[/color]
+[mono]WRITE DETAILED CIRCUMSTANCES HERE[/mono]
+[color=#1b67a5]══════════════════════════════════════════[/color]
+
+[head=2]Preventative Measures[/head]
+[bold]What will you do to prevent this from happening again?:[/bold]
+[color=#1b67a5]══════════════════════════════════════════[/color]
+[mono]WRITE MEASURES HERE[/mono]
+[color=#1b67a5]══════════════════════════════════════════[/color]
+[italic][color=#aaaaaa]This form requires the signature of the employee requesting replacement and the Head of Personnel. Replacement IDs are subject to Policy 67C3. Excessive replacements will be deducted from personal accounts per Policy 67C6. Nanotrasen reserves the right to deny any application.[/italic][/color]
