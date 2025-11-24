@@ -22,10 +22,10 @@
 I, [color=#1b67a5]Authorizing Name[/color], holding the position of [color=#1b67a5]Job Title[/color], hereby issue this standing order that no resuscitative measures are to be performed on the above-named individual.
 
 [head=2]Justification for Non-Intervention[/head]
-\[ ] Immediate threat to station personnel`
-\[ ] Risk of contamination or spread`
-\[ ] Non-human entity classification`
-\[ ] Irreversible hostile intent`
+\[ ] Immediate threat to station personnel
+\[ ] Risk of contamination or spread
+\[ ] Non-human entity classification
+\[ ] Irreversible hostile intent
 \[ ] Other: [color=#1b67a5]Text Here[/color]
 
 ══════════════════════════════════════════
