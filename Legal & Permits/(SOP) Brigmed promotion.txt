@@ -15,7 +15,7 @@ This document outlines the duties, responsibilities, and operational limitations
 
 [head=3]II. STANDARD OPERATING PROTOCOL (Condition [color=LimeGreen]Green[/color]/[color=DarkOrange]Yellow[/color])[/head]
 [bold]A. Personnel & Deployment[/bold]
-■ Personnel for this role [bold]must[/bold] be drawn from the Medical Department unless authorized otherwise.
+■ Personnel for this role [bold]must[/bold] be drawn from Security or the Medical Department unless authorized otherwise.
 ■ The Brigmedic is a [bold]non-combatant[/bold] role operating under medical authority.
 
 [bold]B. Primary Duties[/bold]
