@@ -1,0 +1,49 @@
+# Brigmed - Duty Assignment
+                            [color=#1b67a5]╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝[/color]
+        [head=2][bold]STANDARD OPERATING PROCEDURE
+        BRIGMEDIC PROTOCOL[/bold][/head]
+──────────────────────────────────────────
+
+[head=3]I. PURPOSE & SCOPE[/head]
+This document outlines the duties, responsibilities, and operational limitations of Medical personnel assigned to the Brigmedic (Brigmed) role. This assignment serves as a force multiplier for Security operations by providing dedicated medical support, and is [bold]not[/bold] a Security deputization.
+
+[head=3]II. STANDARD OPERATING PROTOCOL (Condition [color=LimeGreen]Green[/color]/[color=DarkOrange]Yellow[/color])[/head]
+[bold]A. Personnel & Deployment[/bold]
+■ Personnel for this role [bold]must[/bold] be drawn from the Medical Department unless authorized otherwise.
+■ The Brigmedic is a [bold]non-combatant[/bold] role operating under medical authority.
+
+[bold]B. Primary Duties[/bold]
+■ Maintain some presence in the Medical Bay, monitoring comms and crew monitor.
+■ Be prepared to respond to the Brig to conduct health checks on prisoners or high-risk patients.
+■ Ensure all individuals in Security custody receive appropriate medical care.
+
+[bold]C. Limitations & Restrictions[/bold]
+■ [bold]You are not a Security Officer.[/bold] You do not have arrest authority.
+■ You may [bold]not[/bold] carry equipment of an offensive nature.
+■ Permitted equipment is strictly limited to self-defense and medical tools.
+
+[head=3]III. EMERGENCY PROTOCOL ([color=Red]Red[/color])[/head]
+[bold]A. Deployment & Equipment[/bold]
+■ Deploy to the forward edge of the active combat zone, behind Security lines.
+■ Carry one (1) set of restraints and a small-arms weapon [bold]only[/bold] as a last-resort contingency.
+■ Primary focus is rapid stabilization of Security personnel to return them to combat readiness.
+
+[bold]B. Field Duties[/bold]
+■ Administer immediate life-saving measures.
+■ Retrieve and secure dangerous equipment from the fallen for later Security collection.
+■ [bold]Priority One:[/bold] Avoid capture.
+
+[head=3]IV. ROLE DIFFERENTIATION: BRIG PHYSICIAN vs. PARAMEDIC[/head]
+[bold]Paramedic:[/bold] A reactive role. Responds to individual casualties, extracts them to Medical Bay, and focuses on patient transport and initial stabilization.
+[bold]Brigmedic:[/bold] A proactive-support role. Embeds near the operational area to provide immediate, advanced care with the goal of keeping personnel in the fight.
+
+──────────────────────────────────────────
+[bold]Acknowledgment of Understanding:[/bold]
+
+[mono]By signing, the signee agrees to have read and understood the protocols and limitations of the Brigmed role as outlined in this SOP.[/mono]
