@@ -1,3 +1,4 @@
+# Mrrrrow
 [color=#ccd]██[color=#ba9]██[color=#999]██[color=#ccc]██[color=#cdd]██████████[color=#ddd]████████████[color=#bcc]██[color=#888]██[color=#ddd]██
 [color=#ccc]██[color=#a88]██[color=#cba]██[color=#fee]██[color=#ccc]██[color=#cdd]██[color=#ccd]██[color=#ccc]██[color=#bba]██[color=#ccc]██[color=#ddd]██████[color=#cdd]██[color=#aa9]██[color=#bba]██[color=#edd]██[color=#cdd]██
 [color=#baa]██[color=#765]██[color=#a99]██[color=#edd]██[color=#edc]██[color=#998]██[color=#876]██████[color=#987]████[color=#baa]██[color=#665]██[color=#987]██[color=#cba]██[color=#baa]██[color=#ddd]██[color=#cdd]██
@@ -6,7 +7,6 @@
 [color=#aaa]██[color=#776]██[color=#322]██[color=#987]██[color=#a98]██[color=#433]██[color=#333]██[color=#443]██[color=#654]██[color=#432]██[color=#765]██[color=#976]██[color=#a97]██[color=#cba]██[color=#b98]██[color=#eee]██[color=#ddc]██[color=#cdd]██
 [color=#bbb]██[color=#987]██[color=#432]██[color=#543]██[color=#654]██[color=#322]██[color=#221]██[color=#a98]██[color=#887]██[color=#dcc]██[color=#ba9]██[color=#765]██[color=#cba]██[color=#a98]██[color=#976]██[color=#edd]██[color=#ccb]██[color=#ccd]██
 [color=#bcc]██[color=#655]██[color=#654]██[color=#655]██[color=#544]██[color=#111]██[color=#444]██[color=#765]██[color=#eee]██[color=#aaa]██[color=#a98]██[color=#baa]██[color=#cbb]██[color=#cba]██[color=#dcb]██[color=#dcc]██[color=#ccc]██[color=#ccd]██
-# Mrrrrow
 [color=#bbb]██[color=#765]██[color=#332]██[color=#000]██[color=#876]██[color=#133]██[color=#246]██[color=#a99]██[color=#edd]██[color=#eee]██[color=#478]██[color=#bcd]██[color=#988]██[color=#977]██[color=#b99]██[color=#dcc]██[color=#ccc]██[color=#ccd]██
 [color=#bbc]██[color=#877]██[color=#433]██[color=#332]██[color=#322]██[color=#433]██[color=#988]██[color=#210]██[color=#fee]██[color=#baa]██[color=#998]██[color=#010]██[color=#987]██[color=#a98]██[color=#987]██[color=#cbb]██[color=#ccc]████
 ██[color=#bbc]██[color=#876]██[color=#665]██[color=#332]██[color=#765]██[color=#544]██[color=#744]██[color=#eba]██[color=#fee]██[color=#ddc]██[color=#654]██[color=#655]██[color=#cbb]██[color=#cba]██[color=#ddd]██[color=#ccc]████
