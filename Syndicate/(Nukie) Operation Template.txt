@@ -1,0 +1,50 @@
+# OPERATION - "OPERATION NAME HERE"
+                            [color=#ff0000]╔══════════════════╗ 
+                            ║▄█▀░██████████░▀█▄║ 
+                            ║██░░████▄▄░░░░░░██║ 
+                            ║██░░░░▀▀████▄▄░░██║ 
+                            ║██░░░░░░░░▀▀██░░██║ 
+                            ║▀█▄░██████████░▄█▀║ 
+                            ╚══════════════════╝
+                       [head=2]SYNDICATE OPERATION[/head]
+                             [head=2]"OPERATION NAME HERE"[/head]
+              [head=3][mono]SYNDICATE HIGH-COMMAND CLASSIFIED[/mono][/head]
+[head=3]////////////////////////////////////////////////////[/head]
+                           [head=2]PRIMARY OBJECTIVE(S)[/head][/color]
+• Acquire nuclear authentication disk and destroy station
+• some other shit here, idk this is placeholder text, you should change it.
+
+[color=#ff0000][head=3]////////////////////////////////////////////////////[/head][/color]
+                                     [color=#ff0000][head=2]TEAM ROLES[/head][/color]
+• [bold]COMMANDER[/bold]:
+  - Commander stuff or something, this is placeholder text, you should change it.
+  - Add more points as needed dingus
+
+• [bold]OPERATIVES[/bold]:
+  - Operative stuff or something, this is placeholder text, you should change it.
+
+• [bold]AGENT[/bold]:
+  - Agent stuff or something, this is placeholder text, you should change it.
+
+[color=#ff0000][head=3]///////////////////////////////////////////////////[/head][/color]
+
+[color=#ff0000][head=2]PHASE 1: PLACEHOLDER TEXT[/head][/color]
+• Add more points as needed dingus, this is placeholder text, you should change it.
+• Add/remove phases as needed
+
+[color=#ff0000][head=2]PHASE 2: PLACEHOLDER TEXT[/head][/color]
+• Add more points as needed dingus, this is placeholder text, you should change it.
+• Add/remove phases as needed
+
+[color=#ff0000][head=2]PHASE 3: PLACEHOLDER TEXT[/head][/color]
+• Add more points as needed dingus, this is placeholder text, you should change it.
+• Add/remove phases as needed
+  - Also this too for like subpoints or something idk
+
+[color=#ff0000][head=3]////////////////////////////////////////////////////[/head][/color]
+[color=#ff0000][head=2]CONTINGENCIES[/head][/color]
+• [bold]PLACEHOLDER TEXT:[/bold] Add more points as needed dingus, this is placeholder text, you should change it.
+
+[color=#ff0000][head=3]////////////////////////////////////////////////////[/head]
+                     [mono]DEATH TO NANOTRASEN
+                  GLORY TO THE SYNDICATE[/mono][/color]

@@ -1,0 +1,20 @@
+# Official Syndicate Communication
+                              [color=#ff0000]╔══════════════════╗ 
+                              ║▄█▀░██████████░▀█▄║ 
+                              ║██░░████▄▄░░░░░░██║ 
+                              ║██░░░░▀▀████▄▄░░██║ 
+                              ║██░░░░░░░░▀▀██░░██║ 
+                              ║▀█▄░██████████░▄█▀║ 
+                              ╚══════════════════╝
+                            [head=2]OFFICIAL SYNDICATE[/head]
+                               [head=2]COMMUNICATION[/head]
+
+[bold]TO:[/bold] 
+[bold]FROM:[/bold] 
+[bold]SUBJECT:[/bold] 
+══════════════════════════════════════════[/color]
+
+text here
+
+
+[color=#ff0000]══════════════════════════════════════════
