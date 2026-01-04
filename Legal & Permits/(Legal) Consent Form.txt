@@ -1,0 +1,23 @@
+# Consent Form
+                            [color=#1b67a5]╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝[/color]
+                 [head=2][bold]CONSENT FORM[/bold][/head]
+──────────────────────────────────────────
+
+I, [bold][color=#1b67a5]NAME[/color][/bold], hereby provide my voluntary and informed consent for the following:
+
+[color=#1b67a5]──────────────────────────────────────────
+whatever the consent form is for here
+──────────────────────────────────────────[/color]
+
+[bold]Risks & Benefits Acknowledged:[/bold]
+- I have been informed of the potential risks and benefits.
+- I have had the opportunity to ask questions.
+- I understand I may withdraw consent at any time.
+
+[italic]This document confirms voluntary consent.[/italic]
