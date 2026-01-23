@@ -1,0 +1,82 @@
+# Head of Personnel Self-Reflection
+[color=#1b67a5]
+▀█▀░░░ [head=2]PERSONNEL REVIEW[/head]
+▄█▄▄▀▄ [head=2]SELF-EVALUATION FORM[/head]
+░░░█▀█ [head=3][mono]FOR: HEAD OF PERSONNEL[/mono][/head]
+[/color][color=#1b67a5][head=3]////////////////////////////////////////////////////[/head][/color]
+
+[head=2]Personnel Transfer Authorization[/head]
+How did I comply with SOP §1 regarding departmental transfers?
+( ) EXEMPLARY - All transfers properly authorized
+( ) SATISFACTORY - Minor oversights, proper judgment used
+( ) DEFICIENT - Multiple unauthorized transfers
+( ) CONDEMNED - Widespread disregard for authorization
+
+[head=2]Access Level Management[/head]
+How did I handle access changes per SOP §2?
+( ) EXEMPLARY - Perfect chain of command compliance
+( ) SATISFACTORY - Proper approvals, minor paperwork delays
+( ) DEFICIENT - Unauthorized access grants
+( ) CONDEMNED - Cap-level access abuse
+
+[head=2]Job Opening Modifications[/head]
+Did I follow SOP §3 for increasing job positions?
+( ) EXEMPLARY - All changes department-approved
+( ) SATISFACTORY - Appropriate judgment when Heads unavailable
+( ) DEFICIENT - Unilateral position creation
+( ) CONDEMNED - Complete disregard for departmental needs
+
+[head=2]Termination Procedures[/head]
+How did I handle personnel firings per SOP §4?
+( ) EXEMPLARY - Perfect compliance with authorization requirements
+( ) SATISFACTORY - Proper process with minor procedural errors
+( ) DEFICIENT - Unauthorized terminations
+( ) CONDEMNED - Abuse of termination authority
+
+[head=2]Central Command Compliance[/head]
+Did I adhere to SOP §5 regarding Central Command roles?
+( ) EXEMPLARY - No unauthorized promotions or icon use
+( ) SATISFACTORY - Minor protocol questions, no violations
+( ) DEFICIENT - Unauthorized role/icon assignment
+( ) CONDEMNED - Complete disregard for Central Command protocols
+
+[head=2]Paperwork & Emergency Balance[/head]
+How did I balance SOP §6 requirements?
+( ) EXEMPLARY - Perfect emergency expediency/thoroughness balance
+( ) SATISFACTORY - Appropriate prioritization during crises
+( ) DEFICIENT - Excessive bureaucracy during emergencies
+( ) CONDEMNED - Complete procedural breakdown
+
+[head=2]Office Management[/head]
+Did I maintain SOP §7 office availability standards?
+( ) EXEMPLARY - Always available, <10 minute responses
+( ) SATISFACTORY - Minor delays, proper coverage
+( ) DEFICIENT - Extended unattended periods
+( ) CONDEMNED - Chronic unavailability
+
+[head=2]Security Role Adherence[/head]
+How did I comply with SOP §8 security restrictions?
+( ) EXEMPLARY - Strict self-defense only, no security duties
+( ) SATISFACTORY - Minor role boundary questions
+( ) DEFICIENT - Unauthorized security activities
+( ) CONDEMNED - Acting as security officer
+
+[color=#1b67a5][head=3]////////////////////////////////////////////////////[/head][/color]
+
+[head=2]Overall Self-Assessment[/head]
+Based on the above evaluations, my overall performance as Head of Personnel:
+( ) EXEMPLARY - Exceptional leadership and compliance
+( ) SATISFACTORY - Met core responsibilities adequately
+( ) DEFICIENT - Multiple significant SOP violations
+( ) CONDEMNED - Failed in primary duties
+
+[head=3]The below two fields are optional[/head]
+
+[head=3]Primary Area Needing Improvement:[/head]
+WRITE HERE
+
+[head=3]Key Success This Shift:[/head]
+WRITE HERE
+
+[color=#1b67a5][head=3]////////////////////////////////////////////////////[/head][/color]
+Signature below is required to confirm completion of the form:

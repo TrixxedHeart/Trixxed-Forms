@@ -1,0 +1,40 @@
+# IAA Audit - Cargo
+[color=#A67C52]
+▀█▀░░░ [head=2]IA DEPARTMENTAL AUDIT[/head]
+▄█▄▄▀▄ [head=2]DEPARTMENT - SUPPLY[/head]
+░░░█▀█ [head=3][mono]Audited by YOUR NAME HERE[/mono][/head]
+[/color][color=#A67C52][head=3]////////////////////////////////////////////////////[/head][/color]
+          [head=2][mono]SUMMARY & COMPLIANCE RATING[/mono][/head]
+
+[head=3]Overall Department Grade:[/head]
+( ) EXEMPLARY | ( ) SATISFACTORY
+( ) DEFICIENT   | ( ) CONDEMNED
+
+[color=#A67C52][head=3]////////////////////////////////////////////////////[/head][/color]
+[head=2]Findings:[/head]
+
+[color=#A67C52][head=3]////////////////////////////////////////////////////[/head][/color]
+   [head=2][mono]OPERATIONAL READINESS CHECKLIST[/mono][/head]
+
+- ( ) Standard Operating Procedure is known, accessible, and actively being followed by all department personnel.
+- ( ) All approved orders are being delivered within 15 minutes of placement and approval.
+- ( ) Restricted crates (Security, HFR) require proper authorization before ordering.
+- ( ) The supply department account is not used for personal orders without Quartermaster consent.
+- ( ) Non-essential items are not ordered without Quartermaster consent.
+- ( ) Cargo crates are not being forced open without authorization.
+- ( ) Order Forms are properly archived and maintained within Cargo.
+- ( ) All relevant shipped crates include a stamped manifest.
+- ( ) The Ore Processor is being managed equitably between departments.
+- ( ) No illicit trades or credits are being solicited for standard orders.
+- ( ) Mail delivery is operational and staffed when the teleporter is active.
+
+[color=#A67C52][head=3]////////////////////////////////////////////////////[/head][/color]
+                         [head=2][mono]CORRECTIVE ACTIONS
+                &
+      FORMAL RECOMMENDATIONS[/mono][/head]
+
+
+[color=#A67C52][head=3]////////////////////////////////////////////////////[/head][/color]
+[head=2]Additional Comments:[/head]
+
+[color=#A67C52][head=3]////////////////////////////////////////////////////[/head][/color]
