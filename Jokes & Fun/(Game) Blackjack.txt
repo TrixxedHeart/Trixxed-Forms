@@ -1,0 +1,32 @@
+# Blackjack Rules
+[color=#477238]
+                                     [head=1]· · ─ ·♦· ─ · ·[/head]
+                                [head=2]BLACKJACK GUIDE[/head]
+                        [head=3][mono]One Deck • Standard Rules[/mono][/head]
+   [head=3]· · ────────────── ·♦· ────────────── · ·[/head]
+[head=2]OBJECTIVE[/head]
+Get closer to 21 than the dealer without going over.
+
+[head=2]CARD VALUES[/head]
+• Number cards = pip value (2-10)
+• Face Cards (Jack/Queen/King) = 10
+• Ace = 1 or 11 (your choice, as long as it doesn't bust)
+
+[head=2]HOW TO PLAY[/head]
+1. Place your bet.
+2. You get 2 cards face up.
+3. Dealer gets 1 up, 1 down.
+4. Choose:
+   • [bold]HIT[/bold] = Take another card
+   • [bold]STAND[/bold] = Keep your hand
+5. Dealer reveals hidden card.
+6. Dealer must hit until 17 or higher.
+7. Closest to 21 wins.
+
+[head=2]WINNING[/head]
+• Have a higher total than the dealer without going over 21 = Win even money 1x
+• Get a Blackjack (Ace + 10/J/Q/K on your first two cards) = Win 1.5x
+• Tie with the dealer = Push (you keep your bet)
+• You go over 21 = Bust and lose your bet
+• Dealer goes over 21 = All remaining players win
+   [head=3]· · ────────────── ·♦· ────────────── · ·[/head]
