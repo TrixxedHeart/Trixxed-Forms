@@ -1,0 +1,17 @@
+                                    [head=1]· · ─ ·♦· ─ · ·[/head]
+                                   [head=1]Drink Menu[/head]
+                                    [head=1]· · ─ ·♦· ─ · ·[/head]
+   [head=3]· · ────────────── ·♦· ────────────── · ·[/head]
+♦[mono] The following are signature creations available for immediate service[/mono]
+♦[mono] Custom orders crafted upon request, patience appreciated[/mono]
+══════════════════════════════════════════
+                              [head=3][bold]♦ CLASSIC COCKTAILS ♦[/bold][/head]
+♦ [italic]Drink[/italic] - Drink Description
+
+                           [head=3][bold]♦ SPECIALTY CREATIONS ♦[/bold][/head]
+♦ [italic]Drink[/italic] - Drink Description
+
+                                      [head=3][bold]♦ SOBER SIPS ♦[/bold][/head]
+♦ [italic]Drink[/italic] - Drink Description
+══════════════════════════════════════════
+       [italic]All drinks subject to availability during station emergencies.[/italic]
