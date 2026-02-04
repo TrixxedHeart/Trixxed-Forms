@@ -1,0 +1,96 @@
+# Captain Self-Reflection
+[color=#1b67a5]
+▀█▀░░░ [head=2]STATION COMMAND REVIEW[/head]
+▄█▄▄▀▄ [head=2]SELF-EVALUATION FORM[/head]
+░░░█▀█ [head=3][mono]Completed by CAPTAIN NAME[/mono][/head]
+[/color][color=#1b67a5][head=3]////////////////////////////////////////////////////[/head][/color]
+
+[head=2]Security Role Adherence[/head]
+How did I comply with SOP §1 security duty restrictions?
+( ) EXEMPLARY - Perfect role boundary maintenance
+( ) SATISFACTORY - Appropriate assistance when necessary
+( ) DEFICIENT - Unauthorized security activities
+( ) CONDEMNED - Acting as regular security officer
+
+[head=2]Armory & Armament Protocol[/head]
+Did I follow SOP §2 weapon requisition protocols?
+( ) EXEMPLARY - Perfect armament authorization compliance
+( ) SATISFACTORY - Appropriate threat-based decisions
+( ) DEFICIENT - Unauthorized equipment acquisition
+( ) CONDEMNED - Armory access abuse
+
+[head=2]Departmental Leadership Management[/head]
+How did I handle SOP §3 acting head appointments?
+( ) EXEMPLARY - Perfect appointment procedures
+( ) SATISFACTORY - Appropriate interim leadership
+( ) DEFICIENT - Poor appointment decisions
+( ) CONDEMNED - Department leadership failure
+
+[head=2]Station Presence & Duty[/head]
+Did I maintain SOP §4 station presence requirements?
+( ) EXEMPLARY - Perfect station command presence
+( ) SATISFACTORY - Appropriate command availability
+( ) DEFICIENT - Extended unauthorized absence
+( ) CONDEMNED - Abandoned station
+
+[head=2]Nuclear Authentication Security[/head]
+How did I secure SOP §5 nuclear authentication disk?
+( ) EXEMPLARY - Perfect disk security protocols
+( ) SATISFACTORY - Appropriate disk safeguarding
+( ) DEFICIENT - Security lapses with disk
+( ) CONDEMNED - Critical disk security failure
+
+[head=2]Command Issue Resolution[/head]
+Did I follow SOP §6 local resolution protocols?
+( ) EXEMPLARY - Perfect local issue management
+( ) SATISFACTORY - Appropriate escalation timing
+( ) DEFICIENT - Premature Central Command contact
+( ) CONDEMNED - Resolution protocol failure
+
+[head=2]Corporate Policy Adherence[/head]
+How did I uphold SOP §7 Nanotrasen policy compliance?
+( ) EXEMPLARY - Perfect corporate loyalty
+( ) SATISFACTORY - Appropriate policy interpretation
+( ) DEFICIENT - Policy violations
+( ) CONDEMNED - Corporate insubordination
+
+[head=2]Personnel Authority Management[/head]
+Did I exercise SOP §8 termination authority appropriately?
+( ) EXEMPLARY - Perfect personnel authority use
+( ) SATISFACTORY - Appropriate disciplinary actions
+( ) DEFICIENT - Unauthorized terminations
+( ) CONDEMNED - Authority abuse
+
+[head=2]Role SOP Compliance[/head]
+How did I follow SOP §9 invoked role protocols?
+( ) EXEMPLARY - Perfect invoked SOP adherence
+( ) SATISFACTORY - Appropriate role assumption
+( ) DEFICIENT - Role protocol violations
+( ) CONDEMNED - Complete role protocol failure
+
+[head=2]General Command Responsibilities[/head]
+Did I uphold General Command SOP §1-§7?
+( ) EXEMPLARY - Perfect command leadership
+( ) SATISFACTORY - Adequate station oversight
+( ) DEFICIENT - Multiple command failures
+( ) CONDEMNED - Command leadership collapse
+
+[color=#1b67a5][head=3]////////////////////////////////////////////////////[/head][/color]
+
+[head=2]Overall Self-Assessment[/head]
+Based on the above evaluations, my overall performance as Captain:
+( ) EXEMPLARY - Exceptional station command
+( ) SATISFACTORY - Adequate command leadership
+( ) DEFICIENT - Multiple leadership failures
+( ) CONDEMNED - Command failure
+
+[head=3]The below two fields are optional[/head]
+
+[head=3]Primary Area Needing Improvement:[/head]
+WRITE HERE
+
+[head=3]Key Success This Shift:[/head]
+WRITE HERE
+
+[color=#1b67a5][head=3]////////////////////////////////////////////////////[/head][/color]
+Signature below is required to confirm completion of the form:
