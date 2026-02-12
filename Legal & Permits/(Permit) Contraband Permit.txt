@@ -1,0 +1,24 @@
+# Contraband Permit
+[color=#cb0000]█▄ █▀█▀    [head=3]Contraband Permit[/head]
+█ ▀█    █        [mono]RESTRICTED ITEM WAIVER[/mono]
+[head=3]////////////////////////////////////////////////////[/head][/color]
+This document serves to confirm that [bold][color=#1b67a5]RECIPIENT NAME[/color][/bold] is hereby authorized to possess and/or utilize:
+[center][color=#cb0000]──────────────────────────────────────────
+[bold]CONTRABAND ITEM(S):[/bold] [QUANTITY / ITEM]
+[bold]ITEM CLASSIFICATION:[/bold] [RESTRICTED / ILLEGAL / SYNDICATE]
+[bold]REASON:[/bold] 
+──────────────────────────────────────────[/color][/center]
+
+[head=3]TERMS & CONDITIONS[/head]
+[bold]1.[/bold] This authorization is granted under Nanotrasen Security Protocols and is [bold]not[/bold] a pardon for any criminal acts committed with or to acquire said contraband
+[bold]2.[/bold] Item must remain in recipient's possession or in designated secure storage at all times
+[bold]3.[/bold] Recipient assumes full liability for any damage, injury, or loss of life resulting from authorized contraband
+[bold]4.[/bold] Contraband must be surrendered immediately upon request from Head of Security, Captain, or Central Command staff
+[bold]5.[/bold] This permit is subject to immediate revocation without notice
+
+[head=3]SYNDICATE-CLASS RESTRICTIONS[/head]
+[bold][color=#cb0000]/!\\ CENTRAL COMMAND AUTHORIZATION REQUIRED /!\\[/color][/bold]
+Authorization for possession or use of [bold]Syndicate-grade contraband MAY ONLY[/bold] be granted by a verified [bold]Central Command Official[/bold] during non-emergency conditions.
+
+[head=3]AUTHORIZATION VALIDATION[/head]
+This permit requires [bold]appropriate approval[/bold] and is only valid when bearing all required signatures and an official Nanotrasen stamp.
