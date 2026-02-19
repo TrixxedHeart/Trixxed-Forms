@@ -8,6 +8,7 @@
 
 EMPLOYEE: [color=#1b67a5]Name[/color]
 CURRENT POSITION: [color=#1b67a5]Position[/color] 
+DEPARTMENT: [color=#1b67a5]Department[/color]
 
 [color=#1b67a5]══════════════════════════════════════════[/color]
 [head=2]Replacement Details[/head]

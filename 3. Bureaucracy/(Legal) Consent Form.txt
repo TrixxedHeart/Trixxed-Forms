@@ -15,7 +15,7 @@ I, [bold][color=#1b67a5]NAME[/color][/bold], hereby provide my voluntary and inf
 whatever the consent form is for here
 ──────────────────────────────────────────[/color]
 
-[bold]Risks & Benefits Acknowledged:[/bold]
+**Risks & Benefits Acknowledged:**
 - I have been informed of the potential risks and benefits.
 - I have had the opportunity to ask questions.
 - I understand I may withdraw consent at any time.

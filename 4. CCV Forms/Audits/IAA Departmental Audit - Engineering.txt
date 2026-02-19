@@ -1,0 +1,64 @@
+# IAA Departmental Audit - Engineering
+[color=#f39f27]
+▀█▀░░░ [head=2]IA DEPARTMENTAL AUDIT[/head]
+▄█▄▄▀▄ [head=2]DEPARTMENT - ENGINEERING[/head]
+░░░█▀█ [head=3][mono]Audited by YOUR NAME HERE[/mono][/head]
+[/color][color=#f39f27][head=3]////////////////////////////////////////////////////[/head][/color]
+          [head=2][mono]SUMMARY & COMPLIANCE RATING[/mono][/head]
+
+[head=3]Summary:[/head]
+SUMMARY HERE
+
+[head=3]Overall Department Grade:[/head]
+( ) EXEMPLARY | ( ) SATISFACTORY
+( ) DEFICIENT   | ( ) CONDEMNED
+
+[color=#f39f27][head=3]////////////////////////////////////////////////////[/head][/color]
+[head=2]Findings:[/head]
+FINDINGS HERE
+
+[color=#f39f27][head=3]////////////////////////////////////////////////////[/head][/color]
+   [head=2][mono]OPERATIONAL READINESS CHECKLIST[/mono][/head]
+
+[head=3]Power Generation & Engine Management:[/head]
+- ( ) Solar panels properly wired and functional
+- ( ) AME/SM/Tesla/Singularity properly configured and monitored
+- ( ) All engines checked at least once per 30 minutes
+- ( ) Supermatter actively monitored when under emitter fire
+- ( ) No unauthorized additional engines constructed without CE approval
+- ( ) All power sources maintained, including deactivated/inert engines
+
+[head=3]Atmospherics:[/head]
+- ( ) Distro has steady supply of appropriate breathable mix
+- ( ) Air alarms have not been tampered with outside atmospherics
+- ( ) No volatile or harmful mixes created outside atmospherics
+- ( ) Atmospherics piping setup properly maintained (even if repiped)
+
+[head=3]Telecommunications & Monitoring:[/head]
+- ( ) Telecommunications maintained and functional per CE/RD responsibility
+- ( ) Central Alarms Computer checked within 30-minute intervals
+- ( ) Power network integrity maintained
+
+[head=3]Emergency Response & Safety:[/head]
+- ( ) Breaches responded to within 15 minutes when Engineers available
+- ( ) Hazard zones properly cordoned with Engineering Tape/holobarriers
+- ( ) At least one (1) engineering hardsuit available (barring emergencies)
+- ( ) CE has appropriately declared condemned areas when necessary
+- ( ) Axe protocols followed (construction zones only, returned and locked)
+
+[head=3]Structural & Authorized Construction:[/head]
+- ( ) Building Permits properly issued by CE; unauthorized structures addressed
+- ( ) Solo projects only conducted when no station damage pending
+- ( ) Door hacking only for urgent repairs; no abuse of access
+
+[color=#f39f27][head=3]////////////////////////////////////////////////////[/head][/color]
+                         [head=2][mono]CORRECTIVE ACTIONS
+                &
+      FORMAL RECOMMENDATIONS[/mono][/head]
+
+- do a list here of recommendations/actions needed
+
+[color=#f39f27][head=3]////////////////////////////////////////////////////[/head][/color]
+[head=2]Additional Comments:[/head]
+
+[color=#f39f27][head=3]////////////////////////////////////////////////////[/head][/color]

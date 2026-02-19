@@ -1,0 +1,32 @@
+# Demotion Order
+[color=green]
+▀█▀░░░ [head=2]CC PUNITIVE MEASURE[/head]
+▄█▄▄▀▄ [head=2]CLASS 2: DEMOTION[/head]
+░░░█▀█ [head=3][mono]Issued by NAME HERE[/mono][/head]
+[/color][color=green][head=3]////////////////////////////////////////////////////[/head][/color]
+
+[head=2]Subject Information[/head]
+[bold]Name:[/bold]
+[bold]Current Position:[/bold]
+[bold]Department:[/bold]
+
+[head=2]Demotion Details[/head]
+[bold]Demoted To:[/bold]
+
+[bold]Egregious Misconduct / SOP Violation:[/bold]
+• 
+• 
+• 
+
+[bold]Authorization Reference:[/bold]
+Pursuant to Central Command Punitive Measures §Class 2
+(NTR or Magistrate authority only)
+
+[head=2]Demotion Protocol[/head]
+- Subject's ID must be updated to reflect new position
+- Department Head must be notified of change
+- Subject retains right to appeal to Central Command via fax
+- Demotion may be reversed upon demonstrated reform and Central Command approval
+
+[color=green][head=3]////////////////////////////////////////////////////[/head][/color]
+[italic][color=#aaaaaa]This Class 2 penalty may only be issued by a Nanotrasen Representative or Magistrate per Central Command Staff Punitive Measures. Internal Affairs Agents may not issue Class 2 penalties under any circumstances.[/italic][/color]

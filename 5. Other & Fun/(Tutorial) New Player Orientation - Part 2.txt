@@ -1,0 +1,24 @@
+# New Employee Orientation - Part 2
+[head=2]SECTION 4: PERSONAL SAFETY & HAZARDS[/head]
+In the [italic]unlikely[/italic] event of a station alert, you are expected to follow certain procedures. Details for this are laid out in SOP however these are the basics you should understand:
+
+[bold]Green Alert:[/bold]
+Standard alert level, indicating the station is currently safe. Do your job.
+[bold]Blue Alert:[/bold]
+A suspected threat is on-board or nearby the station, crew is advised to be vigilant and report suspicious activity to Security.
+[bold]Yellow Alert:[/bold]
+There is an atmospheric threat on the station, such as hull breaches, spacing, dangerous gases, or the likes. Crewmembers are advised to stay away from the threat.
+[bold]Red Alert:[/bold]
+There is a confirmed hostile threat on-board or nearby the station, this threat could pose a life-threatening danger to the station or crew at large. Ensure your suit sensors are maximized to "Coordinates," personnel are also forbidden from entering the maintenance tunnels during this alert level, failure to comply may result in arrest. Crewmembers should find a safe place to shelter in, and are advised to follow any present authorities.
+
+[head=3]Your Survival Box:[/head]
+You will find a survival box in your bag, this comes equipped with anything you may need during an emergency, such as:
+• [bold]Breath Mask[/bold] - Used alongside an air tank to breathe in the event station atmosphere has been compromised.
+• [bold]Emergency Air Tank[/bold] - Used alongside a breath mask in the event station atmosphere has been compromised. You may receive an oxygen or nitrogen tank dependant on what your species breathes.
+• [bold]Emergency Flare[/bold] - Useful if you need light in a dark area.
+• [bold]Emergency Medipen[/bold] - Contains stabilizing chemicals (epinephrine and tranexamic acid) that may help in emergency situations, helping prevent bloodloss and heal various wounds.
+• [bold]Space Medipen[/bold] - Contains chemicals (barozine) that help protect from the harmful effects of space pressure and freeze. Please refrain from using unless necessary as it is very taxing on the body.
+• [bold]Nutribrick[/bold] - A delicious MRE if you need food urgently! Moths and Vox may also eat the wrapper.
+• [bold]Water Bottle[/bold] - A basic water bottle useful for if you need a drink... or to put out a crewmember thats ablaze.
+───────────────────────────────────────
+[italic]Welcome to Nanotrasen. Work hard, be efficient, and enjoy your stay among the stars.[/italic]

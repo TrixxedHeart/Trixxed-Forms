@@ -1,0 +1,35 @@
+# Armory Inventory Report
+[color=Crimson]
+░█▄▄█░ [head=2]ARMORY STOCK[/head]
+██▄▄██ [head=2]DEPARTMENT - SECURITY[/head]
+▀█▄▄█▀ [head=3][mono]Inventoried by SURICHICHIMO[/mono][/head]
+[/color][color=Crimson][head=3]////////////////////////////////////////////////////[/head]
+                      [head=2]Armor/Shields[/head][/color]
+- [4/4] Sec Hardsuits
+- [2/2] Riot Gear Sets (Helm/Shield/Suit)
+- [3/3] Helmets
+
+- [3/3] Laser Shields
+- [3/3] Ballistic Shields
+- [1/1] Telescopic Shields
+                 [color=Crimson][head=2]Weaponry[/head][/color]
+-[3/3] MK-58
+--[14/14] .35 Mags
+
+- [3/3] Drozd
+- [4/4] Lecters
+-- [4/4] .20 Rifle Mags
+
+- [2/2] Krammerer
+-- [2/2] .12 Gauge Pellet
+
+- [4/4] Laser Rifles
+
+                 [color=Crimson][head=2]Grenades[/head][/color]
+- [4/4] Tear Gas Grenades
+- [5/5] Flashbangs
+                [color=Crimson][head=2]Implanters[/head][/color]
+- [3/4] MindShield Implants
+-- 1 used for Mime Cadet
+
+- [4/4] Tracking Implants

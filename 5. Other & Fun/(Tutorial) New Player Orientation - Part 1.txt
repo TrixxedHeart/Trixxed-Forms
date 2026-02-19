@@ -1,0 +1,60 @@
+# New Employee Orientation - Part 1
+                            [color=#1b67a5]╔══════════════════╗
+                            ║███░███░░░░██░░░░░║
+                            ║░██░████░░░██░░░░░║
+                            ║░░█░██░██░░██░█░░░║
+                            ║░░░░██░░██░██░██░░║
+                            ║░░░░██░░░████░███░║
+                            ╚══════════════════╝[/color]
+                   [head=2][bold]NANOTRASEN EMPLOYEE
+                       ORIENTATION[/bold][/head]
+───────────────────────────────────────
+[head=2]SECTION 1: WELCOME TO NANOTRASEN[/head]
+Congratulations on your employment with Nanotrasen, the galaxy's leading corporation in research, development, beach ball manufacturing, and resource acquisition. Your station is a state-of-the-art facility operating in deep space. Your service is valuable, your safety is our priority (see Section 4), and your productivity is expected.
+
+[head=2]SECTION 2: STATION FUNDAMENTALS[/head]
+Before arriving to a Nanotrasen station you are provided with the bare necessities for your work, a communications headset with a common key along with your relevant department's key, a PDA with an ID and pen, a bag with a complementary survival box, and some of the basic tools you may need for your job. Other tools and accommodations may be found on-station.
+
+[head=3]Your PDA:[/head]
+Your PDA, short for "Personal Digital Assistant" is one of your most important devices, this houses your ID card, a pen, and numerous programs that are helpful for station living.
+
+In the unlikely event you lose your PDA or ID, you may visit the Head of Personnel (HOP) to receive a new one.
+
+[bold]Your ID:[/bold]
+The ID card in your PDA acts as your identification and holds your authorized accesses when aboard Nanotrasen stations, you can take out your ID by inspecting your PDA and hitting the PDA eject button. [italic]You should keep your ID in your PDA unless asked for it.[/italic]
+[bold]Your Pen:[/bold]
+The pen in your PDA is used for writing on paper and signing forms. On the station you may have to occasionally sign a form here or there, this can be done by hitting the eject button on your PDA and inspecting the paper. Signing your name will prevent a paper from being edited further.
+[bold]Your Programs:[/bold]
+Every PDA comes with the following programs:
+• [bold]Crew Manifest[/bold] - Used for viewing the manifest, jobs, and pronouns of your various crewmembers aboard the station.
+• [bold]Notekeeper[/bold] - Used for jotting down notes, anything you may need to remember.
+• [bold]Nanotask[/bold] - Used for keeping track of tasks you need done. Nanotasks can be printed out from your PDA and given to other crew members. Printed Nanotasks can be inserted into PDAs to add them to that PDA.
+• [bold]Station News[/bold] - The station has its own news channel! Articles are written and published typically by the Reporter and report on current station happenings.
+• [bold]Nanochat[/bold] - A messaging app that allows you to communicate with other crew across the station.
+• [bold]SOS[/bold] - An emergency button that sends an alert to the station's emergency channel. If you are in an emergency and need urgent help use this! Be warned that there is no confirm button.
+[bold]Personal AI devices:[/bold]
+Personal AI devices can be found around the station, these can be activated to begin searching for a pAI that can act as your personal assistant. pAIs are able to communicate with you, play music, navigate you through the station, and manage programs on your PDA. Note that a pAI activating is dependant on whether a soul from the plane of the dead wants to actually inhabit it.
+
+[head=3]Your Headset:[/head]
+Your headset is your primary tool for communicating across the station. Your headset will be equipped with a Common channel key and your relevant department's key. If you are an Assistant you will only have a common key. New keys can be inserted into the headset if needed, allowing you to hear that key's relevant channels. Keys can be removed by using a screwdriver on a headset.
+
+Aside from the Common channel, you may freely talk on any channels you have access to by hitting it's relevant key while speaking. You can view which key to press by examining your headset.
+
+The Common channel may only be talked on through intercoms that can be found throughout the station.
+
+[head=2]Your Suit Sensors:[/head]
+On your jumpsuit, you will find a sensor setting. This relays health and location information to the station's Crew Monitoring consoles. It is recommended to set this to it's maximized settings "coordinates" as in the event of an emergency and you enter a critical state, you may be found by the station's paramedics and recovered safely.
+
+[head=2]Other Information:[/head]
+Should you find yourself lost on the station, look for a Station Map, these can be found in various hallways on the walls of the station.
+
+You are encouraged to ask your fellow crew members for help for anything you may have issues with, suffering in silence is not valiant!
+
+[head=2]SECTION 3: DEPARTMENT PRIMER[/head]
+[bold]Command:[/bold] The commanders of the station and you. Follow instructions from the Captain, Head of Personnel, and your Department Head.
+[bold]Security:[/bold] They exist to maintain order. Comply with their instructions. Do not interfere with arrests.
+[bold]Medical:[/bold] Your primary destination if injured. Refrain from wasting medical resources by drinking too much in the bar.
+[bold]Science:[/bold] Handles the research of anomalies and artifacts to create new devices for the station.
+[bold]Engineering[/bold] Handles the power, atmospherics, and integrity of the station.
+[bold]Supply:[/bold] Handles order requests, mail, and the resource acquisition. If you need anything in particular, consider asking Cargo.
+[bold]Service:[/bold] Provides many of the services and leisure across the station, such as food, drinks, and entertainment.

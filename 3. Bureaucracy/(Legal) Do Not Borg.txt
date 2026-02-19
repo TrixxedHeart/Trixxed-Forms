@@ -1,0 +1,33 @@
+# Do Not Borg Order
+                           [color=#666666]╔══════════════════╗
+                           ║███░███░░░░██░░░░░║
+                           ║░██░████░░░██░░░░░║
+                           ║░░█░██░██░░██░█░░░║
+                           ║░░░░██░░██░██░██░░║
+                           ║░░░░██░░░████░███░║
+                           ╚══════════════════╝[/color]
+                 [head=2][bold]DO NOT BORG ORDER[/bold][/head]
+       [head=3][mono]END-OF-LIFE DIRECTIVE - CYBORG REFUSAL[/mono][/head]
+══════════════════════════════════════════
+
+I, [color=#1b67a5][bold]FULL NAME[/bold][/color], being of sound mind and body, do hereby declare my explicit refusal to be converted into a cyborg under any circumstances.
+
+[head=3]DIRECTIVE SCOPE[/head]
+This order applies to:
+\[ ] All forms of cyborg conversion
+\[ ] MMI (Man-Machine Interface) insertion
+\[ ] Robotic chassis integration
+\[ ] OTHER:
+
+[head=3]STATEMENT OF INTENT[/head]
+I understand that this directive means:
+• No robotic replacement will house my consciousness
+• My brain is not to be removed and placed into a cyborg chassis
+• This decision is final and irrevocable after my death
+
+[head=3]EXCEPTIONS (if any)[/head]
+\[ ] No exceptions, this order is absolute
+\[ ] Limited exceptions: WRITE HERE
+
+[color=#666666]──────────────────────────────────────────[/color]
+[italic][color=#aaaaaa]This directive supersedes any emergency medical override. Roboticists must respect this order. Violation constitutes negligence and may result in termination.[/italic][/color]
