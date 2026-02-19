@@ -1,48 +1,74 @@
-# Non-Disclosure Agreement
-                            [color=#1b67a5]╔══════════════════╗
-                            ║███░███░░░░██░░░░░║
-                            ║░██░████░░░██░░░░░║
-                            ║░░█░██░██░░██░█░░░║
-                            ║░░░░██░░██░██░██░░║
-                            ║░░░░██░░░████░███░║
-                            ╚══════════════════╝[/color]
-          [head=2][bold]NON-DISCLOSURE AGREEMENT[/bold][/head]
-══════════════════════════════════════════
+                              [color=#1b67a5]╔══════════════════╗
+                              ║███░███░░░░██░░░░░║
+                              ║░██░████░░░██░░░░░║
+                              ║░░█░██░██░░██░█░░░║
+                              ║░░░░██░░██░██░██░░║
+                              ║░░░░██░░░████░███░║
+                              ╚══════════════════╝[/color]
+                              [head=2][color=FireBrick][mono][ CONFIDENTIAL \][/mono][/color][/head]
+[head=2][color=#1b67a5]═────────────═ · ═────────────═[/color][/head]
+                    [head=2].:COMMAND PROMOTION:.[/head]
+                        [head=3]NDA & MINDSHIELD CONSENT[/head]
+[head=2][color=#1b67a5]═────────────═══────────────═[/color][/head]
 
 [head=3]PARTIES[/head]
-This Agreement is between [bold][color=#1b67a5]Nanotrasen[/color][/bold] (1st Party) and [bold][color=#1b67a5]EMPLOYEE NAME[/color][/bold] (2nd Party).
+This Agreement is between [bold][color=#1b67a5]Nanotrasen[/color][/bold] (1st Party) and [bold][color=#1b67a5]CANDIDATE NAME[/color][/bold] (2nd Party), herein referred to as the [bold]"Candidate,"[/bold] in consideration for promotion to a Head of Staff position ([bold]"Command Role"[/bold]) and continued at-will employment with Nanotrasen.
+[head=2][color=#1b67a5]═════════════════════════════[/color][/head]
+[head=3]ARTICLE I: ACKNOWLEDGEMENT OF COMMAND POLICY[/head]
+The Candidate acknowledges receipt and understanding of the [bold]Nanotrasen Command Training Manual[/bold]. The Candidate understands that both the Non-Disclosure Agreement and MindShield Implant are mandatory conditions of employment for all Command Roles.
+[head=2][color=#1b67a5]═════════════════════════════[/color][/head]
+[head=3]ARTICLE II: NON-DISCLOSURE & CONFIDENTIALITY[/head]
 
-[head=3]PURPOSE[/head]
-To prevent unauthorized disclosure of Confidential Information as defined by Corporate Policy.
-
-[head=3]AGREEMENT TYPE[/head]
+[bold]AGREEMENT TYPE:[/bold]
 ■ UNILATERAL - 1st Party discloses, 2nd Party protects
 
-[head=3]CONFIDENTIAL INFORMATION[/head]
+[bold]CONFIDENTIAL INFORMATION:[/bold]
 ■ All proprietary Nanotrasen research and technology
-■ Command protocols and emergency procedures  
-■ Security systems and access codes
+■ Command protocols and emergency procedures
+■ Security systems, access codes, and strategic assets
 ■ Information marked "Confidential" or "Classified"
+■ Corporate Secrets as defined by Nanotrasen Legal
 
-[head=3]DURATION[/head]
+[bold]DURATION:[/bold]
 Obligations remain in effect until:
 ■ Information is no longer proprietary
 ■ Written release is provided by Nanotrasen Legal
-■ Station emergency protocol mandates disclosure
+■ Station emergency protocol mandates disclosure (per Article V)
 
-[head=3]OBLIGATIONS[/head]
-2nd Party shall:
-• Maintain confidential information in strict confidence
-• Use only for authorized Nanotrasen purposes
-• Report suspected unauthorized disclosures
-• Return all materials upon request or termination
+[bold]OBLIGATIONS:[/bold]
+The Candidate hereby affirms a lifelong undertaking of confidentiality. The Candidate shall:
+• Maintain confidential information in strict confidence per SOP §4
+• Report suspected unauthorized disclosures immediately to Central Command staff or via fax per SOP §5
+• Never divulge Corporate Secrets to unauthorized personnel
+• Accept and assist in carrying out any penalties for breaches imposed by Central Command staff per SOP §7
+[head=2][color=#1b67a5]═════════════════════════════[/color][/head]
+[head=3]ARTICLE III: MINDSHIELD IMPLANT - MANDATORY REQUIREMENT[/head]
 
-[head=3]ENFORCEMENT[/head]
-Violation may result in immediate termination, legal action, and prosecution under corporate law.
+[bold]PURPOSE:[/bold]
+The primary purpose of the MindShield Implant is to protect The Corporation's proprietary information, strategic assets, and command-level operational parameters from external psychic influence, telepathic interrogation, subversion, and memetic hazards.
 
-══════════════════════════════════════════
+[bold]ASSUMPTION OF RISK:[/bold]
+The Candidate acknowledges being informed of potential risks associated with the Mindshield implantation procedure. While classified as [italic]"Minimally Invasive"[/italic] by Nanotrasen Medical Division, understood risks include, but are not limited to: cephalalgia (headache), transient nausea, and in <0.01% of cases, aversion to snakes. The Candidate voluntarily assumes all known and unknown risks.
+[head=2][color=#1b67a5]═════════════════════════════[/color][/head]
+[head=3]ARTICLE IV: CONFIDENTIALITY BREACH PROTOCOL[/head]
 
-[italic]Signatures below indicate understanding and acceptance of these terms.[/italic]
+[bold]REPORTING REQUIREMENTS:[/bold]
+In accordance with General Command SOP §5, the Candidate must report any confidentiality breaks as soon as reasonable to:
+■ A member of Central Command staff on station, or
+■ Central Command via fax
 
-        [mono]OFFICIAL STAMP REQUIRED FOR VALIDATION[/mono]
-══════════════════════════════════════════
+[bold]EMERGENCY DISCLOSURE:[/bold]
+Per SOP §6, the Candidate may divulge Corporate Secrets in a [bold]dire, station-threatening emergency[/bold] where such disclosure is deemed absolutely necessary for the immediate preservation of Nanotrasen assets and human life, and only to the minimum extent required. Such disclosure must follow the direction of Central Command staff when available. Documentation and reporting to Central Command must occur within 15 minutes of the emergency's conclusion.
+
+[bold]PENALTIES FOR BREACH:[/bold]
+The Candidate understands that failure to report breaches, unauthorized disclosure, or slander/libel against Nanotrasen (per SOP §3) will result in penalties imposed by Central Command staff per SOP §7.
+[head=2][color=#1b67a5]═════════════════════════════[/color][/head]
+[head=3]ARTICLE V: ACKNOWLEDGEMENT OF CONSEQUENCES[/head]
+The Candidate understands that any attempt to remove, circumvent, tamper with, or willfully damage the MindShield implant, or any violation of the confidentiality and conduct policies outlined herein, will result in [color=Red]immediate demotion, termination of employment, and severe legal action under the Nanotrasen Corporate Judicial Code, including potential charges of treason and espionage.[/color]
+
+The Candidate agrees to accept and assist in carrying out any penalties imposed by Central Command staff per SOP §7.
+[head=2][color=#1b67a5]═════════════════════════════[/color][/head]
+[head=3]WAIVER OF LIABILITY[/head]
+The Candidate hereby releases, indemnifies, and holds harmless Nanotrasen, its officers, and employees from any and all liability, claims, and actions arising from the Mindshield implantation procedure or any consequences thereof.
+[head=2][color=#1b67a5]═════════════════════════════[/color][/head]
+[center][italic]By signing below, the Candidate certifies having read this document in its entirety, understands its contents, and provides informed consent voluntarily, free from any duress or coercion.[/italic]
