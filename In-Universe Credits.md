@@ -47,3 +47,5 @@ Most documents I made while in-round, so I tend to attribute them to certain cha
 ### Valerius Luminarch (Croupier)
 * Blackjack
 * Drink Menu
+### Surichichimo (Nanotrasen Representative)
+* Containment Obliette Safety PSA
