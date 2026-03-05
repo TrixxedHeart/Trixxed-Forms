@@ -1,0 +1,72 @@
+# IAA Departmental Audit - Medical
+[color=DeepSkyBlue]
+▀█▀░░░ [head=2]IA DEPARTMENTAL AUDIT[/head]
+▄█▄▄▀▄ [head=2]DEPARTMENT - MEDICAL[/head]
+░░░█▀█ [head=3][mono]Audited by YOUR NAME HERE[/mono][/head]
+[/color][color=DeepSkyBlue][head=3]////////////////////////////////////////////////////[/head][/color]
+          [head=2][mono]SUMMARY & COMPLIANCE RATING[/mono][/head]
+
+[head=3]Summary:[/head]
+SUMMARY HERE
+
+[head=3]Overall Department Grade:[/head]
+( ) EXEMPLARY | ( ) SATISFACTORY
+( ) DEFICIENT   | ( ) CONDEMNED
+
+[color=DeepSkyBlue][head=3]////////////////////////////////////////////////////[/head][/color]
+[head=2]Findings:[/head]
+FINDINGS HERE
+
+[color=DeepSkyBlue][head=3]////////////////////////////////////////////////////[/head][/color]
+   [head=2][mono]OPERATIONAL READINESS CHECKLIST[/mono][/head]
+
+[bold]Chief Medical Officer Compliance:[/bold]
+- ( ) CMO equipped with appropriate medical equipment
+- ( ) CMO self-defense chemical protocols follow alert level requirements
+- ( ) No unauthorized poisonous/explosive mixtures in Chemistry without HoS approval or emergency justification
+- ( ) All reviveable corpses properly revived or in process
+
+[bold]Chemist Compliance:[/bold]
+- ( ) No experimentation with explosive, poisonous, or narcotic mixtures
+- ( ) No unauthorized Omnizine-derived or "Life" experimentation
+- ( ) No alcoholic beverage production in Chemistry
+- ( ) Cloning properly stocked with biomass when operational
+- ( ) Adequate medication stocked for Brute, Burn, Respiratory, and Toxin damage within 30 minutes
+- ( ) Chemistry not left unattended when Medbay lacks medication
+
+[bold]Medical Doctor & Intern Compliance:[/bold]
+- ( ) Sterile masks/gloves worn during viral outbreaks (recommended otherwise)
+- ( ) Interns properly utilized for support and light care duties
+- ( ) At least one (1) defibrillator available near main treatment area
+- ( ) Medbay maintained in hygienic state; organic residue/fluids/corpses cleaned
+- ( ) Corpses properly bagged and stored in morgue trays
+- ( ) Morgue clear of reviveable corpses
+- ( ) Doctors present for treatment; no recreational absence when patients waiting
+- ( ) Self-harming patients referred to Psychologist when treated
+- ( ) Deceased crew equipment returned to respective departments
+
+[bold]Paramedic Compliance:[/bold]
+- ( ) Paramedic carries defibrillator while leaving one available in Medbay
+- ( ) Patients stabilized before transport to Medbay
+- ( ) Non-revivable corpses transported to Medbay and reported
+- ( ) Adequate first aid materials carried for all major injury types
+
+[bold]Psychologist Compliance:[/bold]
+- ( ) Evaluations performed only on consenting individuals or court-ordered patients
+- ( ) No forced therapy without HoS/Magistrate/Captain authorization for violent criminals
+- ( ) No medication administered without patient consent
+- ( ) Restraints only applied with proper authorization or for violent/out-of-control patients
+- ( ) Demotion recommendations documented with clinical justification
+- ( ) Permabrig consultations conducted with proper authorization and Security supervision
+
+[color=DeepSkyBlue][head=3]////////////////////////////////////////////////////[/head][/color]
+                         [head=2][mono]CORRECTIVE ACTIONS
+                &
+      FORMAL RECOMMENDATIONS[/mono][/head]
+
+- do a list here of recommendations/actions needed
+
+[color=DeepSkyBlue][head=3]////////////////////////////////////////////////////[/head][/color]
+[head=2]Additional Comments:[/head]
+
+[color=DeepSkyBlue][head=3]////////////////////////////////////////////////////[/head][/color]
