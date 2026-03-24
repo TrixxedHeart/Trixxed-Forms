@@ -1,44 +1,44 @@
-# IAA Departmental Audit - Engineering
-[color=#f39f27]
+# IAA Departmental Audit - Medical
+[color=DeepSkyBlue]
 ▀█▀░░░ [head=2]IA DEPARTMENTAL AUDIT[/head]
-▄█▄▄▀▄ [head=2]DEPARTMENT - ENGINEERING[/head]
+▄█▄▄▀▄ [head=2]DEPARTMENT - MEDICAL[/head]
 ░░░█▀█ [head=3][mono]Audited by YOUR NAME HERE[/mono][/head]
-[/color][color=#f39f27][head=3]////////////////////////////////////////////////////[/head][/color]
+[/color][color=DeepSkyBlue][head=3]////////////////////////////////////////////////////[/head][/color]
           [head=2][mono]SUMMARY & COMPLIANCE RATING[/mono][/head]
 
 [head=3]Overall Department Grade:[/head]
 \[ ] EXEMPLARY | \[ ] SATISFACTORY
 \[ ] DEFICIENT   | \[ ] CONDEMNED
 
-[color=#f39f27][head=3]////////////////////////////////////////////////////[/head][/color]
+[color=DeepSkyBlue][head=3]////////////////////////////////////////////////////[/head][/color]
 [head=2][mono]FINDINGS & RECOMMENDATIONS:[/mono][/head]
 
 WRITE HERE
 
-[color=#f39f27][head=3]////////////////////////////////////////////////////[/head][/color]
-             [head=2][mono]OPERATIONAL ASSESSMENT[/mono][/head]
+[color=DeepSkyBlue][head=3]////////////////////////////////////////////////////[/head][/color]
+   [head=2][mono]OPERATIONAL ASSESSMENT[/mono][/head]
 
-[bold]Chief Engineer Oversight[/bold]
+[bold]Chief Medical Officer Oversight[/bold]
 \[ ] Meets standards | \[ ] Needs improvement
 \[ ] Critical failure | \[ ] Irrelevant
 
-[bold]Power Generation & Engine Management[/bold]
+[bold]Chemistry Management[/bold]
 \[ ] Meets standards | \[ ] Needs improvement
 \[ ] Critical failure | \[ ] Irrelevant
 
-[bold]Atmospherics & Life Support[/bold]
+[bold]Medical Treatment & Patient Care[/bold]
 \[ ] Meets standards | \[ ] Needs improvement
 \[ ] Critical failure | \[ ] Irrelevant
 
-[bold]Telecommunications & Monitoring[/bold]
+[bold]Morgue & Corpse Management[/bold]
 \[ ] Meets standards | \[ ] Needs improvement
 \[ ] Critical failure | \[ ] Irrelevant
 
-[bold]Emergency Response & Safety[/bold]
+[bold]Paramedic Field Operations[/bold]
 \[ ] Meets standards | \[ ] Needs improvement
 \[ ] Critical failure | \[ ] Irrelevant
 
-[bold]Structural & Authorized Construction[/bold]
+[bold]Psychological Services[/bold]
 \[ ] Meets standards | \[ ] Needs improvement
 \[ ] Critical failure | \[ ] Irrelevant
 
@@ -46,9 +46,9 @@ WRITE HERE
 \[ ] Meets standards | \[ ] Needs improvement
 \[ ] Critical failure | \[ ] Irrelevant
 
-[color=#f39f27][head=3]////////////////////////////////////////////////////[/head][/color]
+[color=DeepSkyBlue][head=3]////////////////////////////////////////////////////[/head][/color]
 [head=2]Additional Comments:[/head]
 
 WRITE HERE
 
-[color=#f39f27][head=3]////////////////////////////////////////////////////[/head][/color]
+[color=DeepSkyBlue][head=3]////////////////////////////////////////////////////[/head][/color]
