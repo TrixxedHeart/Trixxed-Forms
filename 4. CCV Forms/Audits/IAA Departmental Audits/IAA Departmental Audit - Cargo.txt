@@ -7,34 +7,48 @@
           [head=2][mono]SUMMARY & COMPLIANCE RATING[/mono][/head]
 
 [head=3]Overall Department Grade:[/head]
-( ) EXEMPLARY | ( ) SATISFACTORY
-( ) DEFICIENT   | ( ) CONDEMNED
+\[ ] EXEMPLARY | \[ ] SATISFACTORY
+\[ ] DEFICIENT   | \[ ] CONDEMNED
 
 [color=#A67C52][head=3]////////////////////////////////////////////////////[/head][/color]
-[head=2]Findings:[/head]
+[head=2][mono]FINDINGS & RECOMMENDATIONS:[/mono][/head]
+
+WRITE HERE
 
 [color=#A67C52][head=3]////////////////////////////////////////////////////[/head][/color]
-   [head=2][mono]OPERATIONAL READINESS CHECKLIST[/mono][/head]
+   [head=2][mono]OPERATIONAL ASSESSMENT[/mono][/head]
 
-- ( ) Standard Operating Procedure is known, accessible, and actively being followed by all department personnel.
-- ( ) All approved orders are being delivered within 15 minutes of placement and approval.
-- ( ) Restricted crates (Security, HFR) require proper authorization before ordering.
-- ( ) The supply department account is not used for personal orders without Quartermaster consent.
-- ( ) Non-essential items are not ordered without Quartermaster consent.
-- ( ) Cargo crates are not being forced open without authorization.
-- ( ) Order Forms are properly archived and maintained within Cargo.
-- ( ) All relevant shipped crates include a stamped manifest.
-- ( ) The Ore Processor is being managed equitably between departments.
-- ( ) No illicit trades or credits are being solicited for standard orders.
-- ( ) Mail delivery is operational and staffed when the teleporter is active.
+[bold]Quartermaster Oversight[/bold]
+\[ ] Meets standards | \[ ] Needs improvement
+\[ ] Critical failure | \[ ] Irrelevant
 
-[color=#A67C52][head=3]////////////////////////////////////////////////////[/head][/color]
-                         [head=2][mono]CORRECTIVE ACTIONS
-                &
-      FORMAL RECOMMENDATIONS[/mono][/head]
+[bold]Order Processing & Delivery[/bold]
+\[ ] Meets standards\[ ] Needs improvement
+\[ ] Critical failure | \[ ] Irrelevant
 
+[bold]Authorization & Restricted Items[/bold]
+\[ ] Meets standards | \[ ] Needs improvement
+\[ ] Critical failure | \[ ] Irrelevant
+
+[bold]Account & Resource Management[/bold]
+\[ ] Meets standards | \[ ] Needs improvement
+\[ ] Critical failure | \[ ] Irrelevant
+
+[bold]Documentation & Record Keeping[/bold]
+\[ ] Meets standards | \[ ] Needs improvement
+\[ ] Critical failure | \[ ] Irrelevant
+
+[bold]Interdepartmental Coordination[/bold]
+\[ ] Meets standards | \[ ] Needs improvement
+\[ ] Critical failure | \[ ] Irrelevant
+
+[bold]Personnel Conduct & Professionalism[/bold]
+\[ ] Meets standards | \[ ] Needs improvement
+\[ ] Critical failure | \[ ] Irrelevant
 
 [color=#A67C52][head=3]////////////////////////////////////////////////////[/head][/color]
 [head=2]Additional Comments:[/head]
+
+WRITE HERE
 
 [color=#A67C52][head=3]////////////////////////////////////////////////////[/head][/color]

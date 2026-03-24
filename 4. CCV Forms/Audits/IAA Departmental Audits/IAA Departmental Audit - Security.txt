@@ -6,36 +6,49 @@
 [/color][color=Crimson][head=3]////////////////////////////////////////////////////[/head][/color]
           [head=2][mono]SUMMARY & COMPLIANCE RATING[/mono][/head]
 
-[head=3]Summary:[/head]
-SUMMARY HERE
-
 [head=3]Overall Department Grade:[/head]
-( ) EXEMPLARY | ( ) SATISFACTORY
-( ) DEFICIENT   | ( ) CONDEMNED
+\[ ] EXEMPLARY | \[ ] SATISFACTORY
+\[ ] DEFICIENT   | \[ ] CONDEMNED
 
 [color=Crimson][head=3]////////////////////////////////////////////////////[/head][/color]
-[head=2]Findings:[/head]
-FINDINGS HERE
+[head=2][mono]FINDINGS & RECOMMENDATIONS:[/mono][/head]
+
+WRITE HERE
 
 [color=Crimson][head=3]////////////////////////////////////////////////////[/head][/color]
-   [head=2][mono]OPERATIONAL READINESS CHECKLIST[/mono][/head]
+   [head=2][mono]OPERATIONAL ASSESSMENT[/mono][/head]
 
-- ( ) Standard Operating Procedure is known, accessible, and actively being followed by all department personnel.
-- ( ) Evidence and contraband are securely stored, logged, and inaccessible to non-authorized personnel.
-- ( ) Detainee rights are respected; processing includes health screening and legal counsel.
-- ( ) All department equipment (armory, hardsuits, weapons) is accounted for and requires appropriate authorization for release.
-- ( ) Security fabricator is stocked with necessary materials.
-- ( ) The Brig is structurally sound, secure, and equipped with functional security systems.
-- ( ) No department personnel are observed with unauthorized, excessive, or non-standard issue weaponry for the current alert level.
+[bold]Head of Security Oversight[/bold]
+\[ ] Meets standards | \[ ] Needs improvement
+\[ ] Critical failure | \[ ] Irrelevant
 
-[color=Crimson][head=3]////////////////////////////////////////////////////[/head][/color]
-                         [head=2][mono]CORRECTIVE ACTIONS
-                &
-      FORMAL RECOMMENDATIONS[/mono][/head]
+[bold]Arrest & Detainee Processing Procedures[/bold]
+\[ ] Meets standards | \[ ] Needs improvement
+\[ ] Critical failure | \[ ] Irrelevant
 
-- do a list here of recommendations/actions needed
+[bold]Use of Force & Weapons Protocol[/bold]
+\[ ] Meets standards | \[ ] Needs improvement
+\[ ] Critical failure | \[ ] Irrelevant
+
+[bold]Evidence & Contraband Management[/bold]
+\[ ] Meets standards | \[ ] Needs improvement
+\[ ] Critical failure | \[ ] Irrelevant
+
+[bold]Armory & Equipment Accountability[/bold]
+\[ ] Meets standards | \[ ] Needs improvement
+\[ ] Critical failure | \[ ] Irrelevant
+
+[bold]Personnel Conduct & Rules of Conduct[/bold]
+\[ ] Meets standards | \[ ] Needs improvement
+\[ ] Critical failure | \[ ] Irrelevant
+
+[bold]Brig Facilities & Security Systems[/bold]
+\[ ] Meets standards | \[ ] Needs improvement
+\[ ] Critical failure | \[ ] Irrelevant
 
 [color=Crimson][head=3]////////////////////////////////////////////////////[/head][/color]
 [head=2]Additional Comments:[/head]
+
+WRITE HERE
 
 [color=Crimson][head=3]////////////////////////////////////////////////////[/head][/color]

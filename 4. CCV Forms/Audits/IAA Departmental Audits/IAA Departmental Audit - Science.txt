@@ -6,42 +6,45 @@
 [/color][color=#9C27B0][head=3]////////////////////////////////////////////////////[/head][/color]
           [head=2][mono]SUMMARY & COMPLIANCE RATING[/mono][/head]
 
-[head=3]Summary:[/head]
-SUMMARY HERE
-
 [head=3]Overall Department Grade:[/head]
-( ) EXEMPLARY | ( ) SATISFACTORY
-( ) DEFICIENT   | ( ) CONDEMNED
+\[ ] EXEMPLARY | \[ ] SATISFACTORY
+\[ ] DEFICIENT   | \[ ] CONDEMNED
 
 [color=#9C27B0][head=3]////////////////////////////////////////////////////[/head][/color]
-[head=2]Findings:[/head]
-FINDINGS HERE
+[head=2][mono]FINDINGS & RECOMMENDATIONS:[/mono][/head]
+
+WRITE HERE
 
 [color=#9C27B0][head=3]////////////////////////////////////////////////////[/head][/color]
-   [head=2][mono]OPERATIONAL READINESS CHECKLIST[/mono][/head]
+   [head=2][mono]OPERATIONAL ASSESSMENT[/mono][/head]
 
-- ( ) The Research Director is ensuring active research is being conducted with available materials.
-- ( ) Harmful artifacts are properly contained when transported outside Science.
-- ( ) AI law changes have followed proper Captain approval protocols.
-- ( ) Anomaly logs are maintained; dangerous anomalies are properly eliminated.
-- ( ) Telecommunications systems are properly maintained and functional.
-- ( ) Scientists are not generating unauthorized anomalies
-- ( ) Scientists are not distributing unauthorized protolathe weapons.
-- ( ) Test animals are delivered to the Chef post-experimentation.
-- ( ) Station-wide destruction artifacts are deactivated or eliminated promptly.
-- ( ) Roboticists are constructing appropriate mech types with proper authorization.
-- ( ) Do-Not-Borg orders are respected and documented.
-- ( ) Cyborg law compliance is monitored; malfunctioning units are properly handled.
-- ( ) At least one Positronic Brain remains active when possible.
+[bold]Research Director Oversight[/bold]
+\[ ] Meets standards | \[ ] Needs improvement
+\[ ] Critical failure | \[ ] Irrelevant
 
-[color=#9C27B0][head=3]////////////////////////////////////////////////////[/head][/color]
-                         [head=2][mono]CORRECTIVE ACTIONS
-                &
-      FORMAL RECOMMENDATIONS[/mono][/head]
+[bold]Artifact & Anomaly Management[/bold]
+\[ ] Meets standards | \[ ] Needs improvement
+\[ ] Critical failure | \[ ] Irrelevant
 
-- do a list here of recommendations/actions needed
+[bold]Protolathe & Weapon Distribution[/bold]
+\[ ] Meets standards | \[ ] Needs improvement
+\[ ] Critical failure | \[ ] Irrelevant
+
+[bold]Robotics & Silicon Compliance[/bold]
+\[ ] Meets standards | \[ ] Needs improvement
+\[ ] Critical failure | \[ ] Irrelevant
+
+[bold]Experimentation Ethics & Safety[/bold]
+\[ ] Meets standards | \[ ] Needs improvement
+\[ ] Critical failure | \[ ] Irrelevant
+
+[bold]Personnel Conduct & Professionalism[/bold]
+\[ ] Meets standards | \[ ] Needs improvement
+\[ ] Critical failure | \[ ] Irrelevant
 
 [color=#9C27B0][head=3]////////////////////////////////////////////////////[/head][/color]
 [head=2]Additional Comments:[/head]
+
+WRITE HERE
 
 [color=#9C27B0][head=3]////////////////////////////////////////////////////[/head][/color]
