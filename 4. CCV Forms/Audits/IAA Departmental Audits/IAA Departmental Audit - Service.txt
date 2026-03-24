@@ -1,0 +1,62 @@
+# IAA Departmental Audit - Service
+[color=darkgreen]
+▀█▀░░░ [head=2]IA DEPARTMENTAL AUDIT[/head]
+▄█▄▄▀▄ [head=2]DEPARTMENT - SERVICE[/head]
+░░░█▀█ [head=3][mono]Audited by YOUR NAME HERE[/mono][/head]
+[/color][color=darkgreen][head=3]////////////////////////////////////////////////////[/head][/color]
+          [head=2][mono]SUMMARY & COMPLIANCE RATING[/mono][/head]
+
+[head=3]Overall Department Grade:[/head]
+\[ ] EXEMPLARY | \[ ] SATISFACTORY
+\[ ] DEFICIENT   | \[ ] CONDEMNED
+
+[color=darkgreen][head=3]////////////////////////////////////////////////////[/head][/color]
+[head=2][mono]FINDINGS & RECOMMENDATIONS:[/mono][/head]
+
+WRITE HERE
+
+[color=darkgreen][head=3]////////////////////////////////////////////////////[/head][/color]
+   [head=2][mono]OPERATIONAL ASSESSMENT[/mono][/head]
+
+[bold]Head of Personnel Oversight[/bold]
+\[ ] Meets standards | \[ ] Needs improvement
+\[ ] Critical failure | \[ ] Irrelevant
+
+[bold]Kitchen Operations[/bold]
+\[ ] Meets standards | \[ ] Needs improvement
+\[ ] Critical failure | \[ ] Irrelevant
+
+[bold]Bar Operations[/bold]
+\[ ] Meets standards | \[ ] Needs improvement
+\[ ] Critical failure | \[ ] Irrelevant
+
+[bold]Hydroponics & Botanical Compliance[/bold]
+\[ ] Meets standards | \[ ] Needs improvement
+\[ ] Critical failure | \[ ] Irrelevant
+
+[bold]Media Compliance (Reporter)[/bold]
+\[ ] Meets standards | \[ ] Needs improvement
+\[ ] Critical failure | \[ ] Irrelevant
+
+[bold]Entertainment Roles (Clown/Mime/Musician)[/bold]
+\[ ] Meets standards | \[ ] Needs improvement
+\[ ] Critical failure | \[ ] Irrelevant
+
+[bold]Religious Services (Chaplain)[/bold]
+\[ ] Meets standards | \[ ] Needs improvement
+\[ ] Critical failure | \[ ] Irrelevant
+
+[bold]Janitorial Maintenance (Janitor)[/bold]
+\[ ] Meets standards | \[ ] Needs improvement
+\[ ] Critical failure | \[ ] Irrelevant
+
+[bold]Personnel Conduct & Professionalism[/bold]
+\[ ] Meets standards | \[ ] Needs improvement
+\[ ] Critical failure | \[ ] Irrelevant
+
+[color=darkgreen][head=3]////////////////////////////////////////////////////[/head][/color]
+[head=2]Additional Comments:[/head]
+
+WRITE HERE
+
+[color=darkgreen][head=3]////////////////////////////////////////////////////[/head][/color]
