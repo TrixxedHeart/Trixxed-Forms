@@ -1,0 +1,71 @@
+# Station-Wide Executive Summary
+[color=#477238]
+▀█▀░░░ [head=2]IA EXECUTIVE SUMMARY[/head]
+▄█▄▄▀▄ [head=2]STATION REVIEW[/head]
+░░░█▀█ [head=3][mono]Audited by NAME HERE[/mono][/head]
+[/color][color=#477238][head=3]////////////////////////////////////////////////////[/head][/color]
+[head=1][mono]OVERALL STATION GRADE[/mono][/head]
+[head=3]Station-Wide Rating:[/head]
+( ) EXEMPLARY | ( ) SATISFACTORY
+( ) DEFICIENT | ( ) CONDEMNED
+[head=3]Summary:[/head]
+WRITE HERE
+[color=#477238][head=3]////////////////////////////////////////////////////[/head][/color]
+
+[head=1][mono]DEPARTMENTAL SCORES[/mono][/head]
+                                        
+[head=2][color=RoyalBlue]COMMAND[/color][/head]
+( ) EXEMPLARY | ( ) SATISFACTORY
+( ) DEFICIENT | ( ) CONDEMNED
+[head=3]Summary:[/head]
+WRITE HERE
+
+[head=2][color=Crimson]SECURITY[/color][/head]
+( ) EXEMPLARY | ( ) SATISFACTORY
+( ) DEFICIENT | ( ) CONDEMNED
+[head=3]Summary:[/head]
+WRITE HERE
+
+[head=2][color=Purple]SCIENCE[/color][/head]
+( ) EXEMPLARY | ( ) SATISFACTORY
+( ) DEFICIENT | ( ) CONDEMNED
+[head=3]Summary:[/head]
+WRITE HERE
+
+[head=2][color=Turquoise]MEDICAL[/color][/head]
+( ) EXEMPLARY | ( ) SATISFACTORY
+( ) DEFICIENT | ( ) CONDEMNED
+[head=3]Summary:[/head]
+WRITE HERE
+
+[head=2][color=Orange]ENGINEERING[/color][/head]
+( ) EXEMPLARY | ( ) SATISFACTORY
+( ) DEFICIENT | ( ) CONDEMNED
+[head=3]Summary:[/head]
+WRITE HERE
+
+[head=2][color=Brown]CARGO[/color][/head]
+( ) EXEMPLARY | ( ) SATISFACTORY
+( ) DEFICIENT | ( ) CONDEMNED
+[head=3]Summary:[/head]
+WRITE HERE
+
+[head=2][color=Green]SERVICE[/color][/head]
+( ) EXEMPLARY | ( ) SATISFACTORY
+( ) DEFICIENT | ( ) CONDEMNED
+[head=3]Summary:[/head]
+WRITE HERE
+
+[color=#477238][head=3]////////////////////////////////////////////////////[/head][/color]
+[head=2][mono]CRITICAL FINDINGS[/mono][/head]
+[bold]Areas Requiring Immediate Attention:[/bold]
+WRITE HERE
+
+[bold]Areas of Notable Excellence:[/bold]
+WRITE HERE
+[color=#477238][head=3]////////////////////////////////////////////////////[/head][/color]
+[head=2][mono]RECOMMENDATIONS[/mono][/head]
+
+WRITE HERE
+
+[color=#477238][head=3]////////////////////////////////////////////////////[/head][/color][italic][color=#aaaaaa]Remember to stamp before signing![/italic][/color]
