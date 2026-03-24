@@ -30,7 +30,7 @@ WRITE HERE
 \[ ] Meets standards | \[ ] Needs improvement
 \[ ] Critical failure | \[ ] Irrelevant
 
-[bold]Hydroponics & Botanical Compliance[/bold]
+[bold]Hydroponics Compliance[/bold]
 \[ ] Meets standards | \[ ] Needs improvement
 \[ ] Critical failure | \[ ] Irrelevant
 
