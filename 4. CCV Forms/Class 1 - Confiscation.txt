@@ -1,7 +1,7 @@
 # Equipment Confiscation Order
 [color=green]
 ▀█▀░░░ [head=2]CC PUNITIVE MEASURE[/head]
-▄█▄▄▀▄ [head=2]CLASS 1: EQUIPMENT CONFISCATION[/head]
+▄█▄▄▀▄ [head=2]CLASS 1: CONFISCATION[/head]
 ░░░█▀█ [head=3][mono]Issued by NAME HERE[/mono][/head]
 [/color][color=green][head=3]////////////////////////////////////////////////////[/head][/color]
 
@@ -26,9 +26,9 @@ Pursuant to Central Command Punitive Measures §Class 1
 [bold]NTR/Magistrate Approval:[/bold]
 
 [head=2]Confiscation Protocol[/head]
-- Receipt to be provided to subject upon request
+- Copy of this document to be provided to subject upon request
 - Equipment may be returned upon demonstrated compliance
-- Appeal may be filed with a CC VIP
+- Appeal may be filed with a CC VIP if subject deems compliance goals met
 
 [color=green][head=3]////////////////////////////////////////////////////[/head][/color]
 [italic][color=#aaaaaa]This Class 1 penalty requires authorization from either the Nanotrasen Representative or Magistrate per IAA SOP §5. Internal Affairs Agents may not issue Class 1 penalties without this approval.[/italic][/color]
