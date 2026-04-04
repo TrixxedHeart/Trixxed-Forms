@@ -1,0 +1,20 @@
+# Non-compliance Report
+[color=#477238]
+▀█▀░░░ [head=2]CC INCIDENT REPORT[/head]
+▄█▄▄▀▄ [head=2]VIOLATION SUMMARY[/head]
+░░░█▀█ [head=3][mono]Reported by NAME HERE[/mono][/head]
+[/color][color=#477238][head=3]////////////////////////////////////////////////////[/head][/color]
+
+[bold]Subject:[/bold]
+[bold]Position:[/bold]
+
+[bold]SOP Violation/Misconduct:[/bold]
+
+
+[bold]Description of Incident:[/bold]
+
+
+[bold]Recommended Action / Actions Taken:[/bold]
+
+[color=#477238][head=3]////////////////////////////////////////////////////[/head][/color]
+[italic]By signing, I confirm this information is accurate.[/italic]
