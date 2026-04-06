@@ -1,9 +1,11 @@
-# Equipment Confiscation Order
+# Class 1: Confiscation Order
 [color=green]
 ▀█▀░░░ [head=2]CC PUNITIVE MEASURE[/head]
 ▄█▄▄▀▄ [head=2]CLASS 1: CONFISCATION[/head]
 ░░░█▀█ [head=3][mono]Issued by NAME HERE[/mono][/head]
 [/color][color=green][head=3]////////////////////////////////////////////////////[/head][/color]
+
+[bold]Shift Time: [/bold] 00:00:00
 
 [head=2]Subject Information[/head]
 [bold]Name:[/bold]
@@ -19,11 +21,6 @@
 
 [bold]Authorization Reference:[/bold]
 Pursuant to Central Command Punitive Measures §Class 1
-
-[head=2]Required Authorizations[/head]
-[bold]Issuing IAA:[/bold]
-
-[bold]NTR/Magistrate Approval:[/bold]
 
 [head=2]Confiscation Protocol[/head]
 - Copy of this document to be provided to subject upon request

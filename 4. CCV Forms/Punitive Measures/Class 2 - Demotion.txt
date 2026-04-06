@@ -1,9 +1,11 @@
-# Demotion Order
+# Class 2: Demotion Order
 [color=green]
-▀█▀░░░ [head=2]CC PUNITIVE MEASURE[/head]
-▄█▄▄▀▄ [head=2]CLASS 2: DEMOTION[/head]
-░░░█▀█ [head=3][mono]Issued by NAME HERE[/mono][/head]
+█▄░█░░ [head=2]CC PUNITIVE MEASURE[/head]
+█░▀██▀ [head=2]CLASS 2: DEMOTION[/head]
+░░░░█░ [head=3][mono]Issued by NAME HERE[/mono][/head]
 [/color][color=green][head=3]////////////////////////////////////////////////////[/head][/color]
+
+[bold]Shift Time: [/bold] 00:00:00
 
 [head=2]Subject Information[/head]
 [bold]Name:[/bold]
