@@ -1,0 +1,33 @@
+# Class 3: Execution Order
+[color=green]
+░░▄█▀█ [head=2]CC PUNITIVE MEASURE[/head]
+░▄▀▄█▀ [head=2]CLASS 3: Execution[/head]
+▄▀▀░░░ [head=3][mono]Issued by NAME HERE[/mono][/head]
+[/color][color=green][head=3]////////////////////////////////////////////////////[/head][/color]
+
+[bold]Shift Time: [/bold] 00:00:00
+
+[head=2]Subject Information[/head]
+[bold]Name:[/bold]
+[bold]Position:[/bold]
+[bold]Department:[/bold]
+
+[head=2]Execution Details[/head]
+[bold]Egregious Misconduct / SOP Violation:[/bold]
+• 
+
+[bold]Authorization Reference:[/bold]
+Pursuant to Central Command Punitive Measures §Class 3
+(Magistrate authority only)
+
+[head=2]Execution Protocol[/head]
+- A copy of this document must be provided upon request from Command, Security, or the Subject
+- Command, Security, and the Subject must be notified of the execution
+- Subject's possessions are to be confiscated and returned to the proper department(s)
+- Subject is to be held in the brig while awaiting execution
+- Subject retains the right to choose their own execution method, but may be overruled by the Magistrate, Captain, Head of Security, or Chief Medical Officer.
+- Once the subject has been executed the subject's postmortem instructions are only to be followed if doing so does not lead to the subject's revival, otherwise the body is to be stored in the morgue
+- Subject retains the right to appeal to a CC VIP aboard the station
+
+[color=green][head=3]////////////////////////////////////////////////////[/head][/color]
+[italic][color=#aaaaaa]This Class 3 penalty may only be issued by a Magistrate per Central Command Staff Punitive Measures. Internal Affairs Agents and Nanotrasen Representatives may not issue Class 3 penalties under any circumstances.[/italic][/color]
