@@ -1,0 +1,26 @@
+# Lessons Learned Statement
+[color=#477238]
+▀█▀░░░ [head=2]PERSONNEL DEVELOPMENT[/head]
+▄█▄▄▀▄ [head=3]LESSONS LEARNED STATEMENT[/head]
+░░░█▀█ [head=3][mono]Filled by NAME HERE[/mono][/head]
+[/color][color=#477238][head=3]////////////////////////////////////////////////////[/head][/color]
+
+[bold]Employee Name: [/bold] NAME
+[bold]Position: [/bold] POSITION
+[bold]Department: [/bold] DEPARTMENT
+[bold]Shift Time: [/bold] 00:00:00
+
+[bold]What I did wrong (be specific):[/bold]
+
+
+[bold]Why I thought this was okay:[/bold]
+
+
+[bold]What I should have done instead:[/bold]
+
+
+[bold]What I learned from this experience:[/bold]
+
+
+[color=#477238][head=3]////////////////////////////////////////////////////[/head][/color]
+[italic]By signing this form, you acknowledge this is in lieu of formal disciplinary action (Class 1 or higher), this document will be placed in your personnel file as a record of the incident. No further action will be taken if deemed sufficent.[/italic]
