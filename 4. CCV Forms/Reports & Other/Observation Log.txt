@@ -1,0 +1,22 @@
+# Observation Log
+[color=#477238]
+▀█▀░░░ [head=2]CC OBSERVATION LOG[/head]
+▄█▄▄▀▄ [head=2]DOCUMENTATION[/head]
+░░░█▀█ [head=3][mono]Logged by NAME HERE[/mono][/head]
+[/color][color=#477238][head=3]////////////////////////////////////////////////////[/head][/color]
+
+[bold]Subject: [/bold] NAME
+[bold]Position: [/bold] POSITION
+[bold]Shift Time: [/bold] 00:00:00
+
+[bold]Observed Behavior / Concern:[/bold]
+
+
+[bold]Potentially Relevant SOP Section(s):[/bold]
+
+
+[bold]Action Taken:[/bold]
+
+
+[color=#477238][head=3]////////////////////////////////////////////////////[/head][/color]
+[italic]This is an observation log, not a citation. For internal CC use only.[/italic]
