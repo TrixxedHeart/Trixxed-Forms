@@ -19,7 +19,7 @@
 
 
 [bold]Further Action Required:[/bold]
-\[ ] Yes | \[ ] No
+\[ ] Yes (Explain below) | \[ ] No
 
 [color=#477238][head=3]////////////////////////////////////////////////////[/head][/color]
 [italic]By signing, I confirm this information is accurate.[/italic]
