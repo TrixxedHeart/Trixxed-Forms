@@ -5,8 +5,9 @@
 ░░░█▀█ [head=3][mono]Reported by NAME HERE[/mono][/head]
 [/color][color=#477238][head=3]////////////////////////////////////////////////////[/head][/color]
 
-[bold]Subject:[/bold]
-[bold]Position:[/bold]
+[bold]Subject(s): [/bold] NAME
+[bold]Position(s): [/bold] POSITION
+[bold]Shift Time: [/bold] 00:00:00
 
 [bold]SOP Violation/Misconduct:[/bold]
 
