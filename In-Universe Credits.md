@@ -32,12 +32,14 @@ Most documents I made while in-round, so I tend to attribute them to certain cha
 ### Surichichimo (Nanotrasen Representative)
 * Class 1 - Confiscation
 * Class 2 - Demotion
-### Gild The Truth (Internal Affairs Agent)
 * IAA Departmental Audit - Cargo
 * IAA Departmental Audit - Engineering
 * IAA Departmental Audit - Science
 * IAA Departmental Audit - Security
 * IAA Departmental Audit - HOP
+* General Noncompliance Report
+* Performance Review
+### Gild The Truth (Internal Affairs Agent)
 * IAA Self Reflection - CMO
 * IAA Self Reflection - Captain
 * IAA Self Reflection - HOP
