@@ -1,0 +1,22 @@
+# Notice to Cease Activity
+[color=#477238]
+█▄░█░░ [head=2]CC DIRECTIVE[/head]
+█░▀██▀ [head=2]NOTICE TO CEASE[/head]
+░░░░█░ [head=3][mono]Issued by NAME HERE[/mono][/head]
+[/color][color=#477238][head=3]////////////////////////////////////////////////////[/head][/color]
+
+[bold]To: [/bold] NAME
+[bold]Position: [/bold] POSITION
+[bold]Shift Time: [/bold] 00:00:00
+
+[bold]Activity to Cease:[/bold]
+
+
+[bold]Reason:[/bold]
+
+
+[bold]Failure to comply will result in:[/bold]
+
+
+[color=#477238][head=3]////////////////////////////////////////////////////[/head][/color]
+[italic]This is a direct order. Non-compliance may lead to further action.[/italic]
