@@ -6,7 +6,6 @@
 [/color][color=#477238][head=3]////////////////////////////////////////////////////[/head][/color]
 
 [bold]To: [/bold] NAME
-[bold]Position: [/bold] POSITION
 [bold]Shift Time: [/bold] 00:00:00
 
 [bold]Activity to Cease:[/bold]
