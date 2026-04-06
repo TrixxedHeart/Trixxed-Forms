@@ -1,0 +1,22 @@
+# Incident Receipt
+[color=#477238]
+▀█▀░░░ [head=2]CC INCIDENT RECEIPT[/head]
+▄█▄▄▀▄ [head=2]EVENT DOCUMENTATION[/head]
+░░░█▀█ [head=3][mono]Filed by NAME HERE[/mono][/head]
+[/color][color=#477238][head=3]////////////////////////////////////////////////////[/head][/color]
+
+[bold]Shift Time: [/bold] 00:00:00
+
+[bold]Parties Involved:[/bold]
+• 
+
+[bold]What Happened:[/bold]
+
+
+
+[bold]Expected Conduct / Requirements:[/bold]
+
+
+
+[color=#477238][head=3]////////////////////////////////////////////////////[/head][/color]
+[italic]This is a general documentation receipt only. It is not a warning, citation, or disciplinary action. This record is being filed for administrative purposes.[/italic]
