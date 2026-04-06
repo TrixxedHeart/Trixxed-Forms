@@ -1,0 +1,32 @@
+# Complaint Disposition Notice
+[color=#477238]
+▀█▀░░░ [head=2]CC DISPOSITION NOTICE[/head]
+▄█▄▄▀▄ [head=2]COMPLAINT RESOLUTION[/head]
+░░░█▀█ [head=3][mono]Issued by NAME HERE[/mono][/head]
+[/color][color=#477238][head=3]////////////////////////////////////////////////////[/head][/color]
+
+[bold]Shift Time: [/bold] 00:00:00
+
+[bold]Complainant: [/bold] NAME
+[bold]Position: [/bold] POSITION
+
+[bold]Complaint Against:[/bold]
+•
+
+[bold]Summary of Complaint:[/bold]
+
+
+[bold]Disposition:[/bold]
+\[ ] No SOP violation found
+\[ ] Issue was found and handled
+\[ ] Matter resolved with verbal counseling
+\[ ] Written warning issued
+\[ ] Referred to relevant authority for action
+\[ ] Complaint lacks sufficient evidence to proceed
+\[ ] Other: 
+
+[bold]Reasoning / Outcome:[/bold]
+
+
+[color=#477238][head=3]////////////////////////////////////////////////////[/head][/color]
+[italic]This notice serves as official resolution of the above complaint. The matter is now closed.[/italic]
