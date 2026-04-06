@@ -1,0 +1,20 @@
+# Complaint Intake Form
+[color=#477238]
+▀█▀░░░ [head=2]CC COMPLAINT FORM[/head]
+▄█▄▄▀▄ [head=2]INTAKE FORM[/head]
+░░░█▀█ [head=3][mono]Filed by NAME HERE[/mono][/head]
+[/color][color=#477238][head=3]////////////////////////////////////////////////////[/head][/color]
+
+[bold]Shift Time: [/bold] 00:00:00
+
+[bold]Complainant: [/bold] NAME
+[bold]Position: [/bold] POSITION
+
+[head=3]]Complaint Against:[/head]
+[bold]Subject/Department: [/bold] NAME
+
+[bold]Summary of Complaint:[/bold]
+
+
+[color=#477238][head=3]////////////////////////////////////////////////////[/head][/color]
+[italic]Your feedback is valuable to us. It will be stored in our records alongside other documents of similar importance. Thank you for your continued service.[/italic]
