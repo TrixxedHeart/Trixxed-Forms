@@ -1,0 +1,1 @@
+These are not meant to be used in a serious capacity/exist to be petty against whoever you're using them for.

@@ -1,0 +1,21 @@
+# Complaint Disposition Notice
+[color=#477238]
+▀█▀░░░ [head=2]CCV COMPLAINT NOTICE[/head]
+▄█▄▄▀▄ [head=2]DISPOSITION FORM[/head]
+░░░█▀█ [head=3][mono]Issued by NAME HERE[/mono][/head]
+[/color][color=#477238][head=3]////////////////////////////////////////////////////[/head][/color]
+
+[bold]To: [/bold] COMPLAINANT NAME
+
+[bold]Regarding your complaint filed on: [/bold]
+
+
+After review, we have determined that:
+
+\[X] The matter was handled appropriately
+\[X] No policy violations occurred
+\[X] Your concerns have been noted
+\[X] This matter is considered resolved
+
+[color=#477238][head=3]////////////////////////////////////////////////////[/head][/color]
+[italic]Thank you for your input. Your feedback helps us maintain the highest standards of operation.[/italic]

@@ -1,0 +1,28 @@
+# CCV Internal Review
+[color=#477238]
+▀█▀░░░ [head=2]CCV INTERNAL REVIEW[/head]
+▄█▄▄▀▄ [head=2]INVESTIGATION FORM[/head]
+░░░█▀█ [head=3][mono]Reviewed by NAME HERE[/mono][/head]
+[/color][color=#477238][head=3]////////////////////////////////////////////////////[/head][/color]
+
+[bold]Investigating CCV: [/bold] NAME
+[bold]Position: [/bold] NTR / MAGISTRATE / IAA
+[bold]Allegation Source: [/bold] NAME
+
+[bold]Allegation Summary:[/bold]
+
+
+[bold]Investigation Method:[/bold]
+\[ ] Interviewed relevant parties | \[ ] Reviewed available evidence | \[ ] Consultation with CCV colleagues | \[ ] Other: 
+
+[bold]Findings:[/bold]
+\[X] No wrongdoing found
+\[X] Issue resolved without disciplinary action
+\[X] Matter requires no further attention
+\[X] Allegation determined to be without merit
+
+[bold]Resolution:[/bold]
+This matter has been reviewed and closed.
+
+[color=#477238][head=3]////////////////////////////////////////////////////[/head][/color]
+[italic]After thorough investigation, CCV has determined that CCV acted appropriately at all times. This case is now closed.[/italic]

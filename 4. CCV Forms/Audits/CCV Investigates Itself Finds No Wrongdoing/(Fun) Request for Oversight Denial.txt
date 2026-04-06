@@ -1,0 +1,21 @@
+# Request for CCV Oversight
+[color=#477238]
+▀█▀░░░ [head=2]CCV OVERSIGHT REQUEST[/head]
+▄█▄▄▀▄ [head=2]RESPONSE FORM[/head]
+░░░█▀█ [head=3][mono]Issued by NAME HERE[/mono][/head]
+[/color][color=#477238][head=3]////////////////////////////////////////////////////[/head][/color]
+
+[bold]To: [/bold] REQUESTOR NAME
+
+[bold]Your request for CCV intervention has been reviewed and:[/bold]
+\[ ] Denied - Insufficient grounds
+\[ ] Denied - Matter already handled appropriately
+\[ ] Denied - Outside CCV jurisdiction
+\[ ] Denied - Requestor lacks standing
+\[ ] Denied - OTHER:
+
+[bold]Reason for Denial:[/bold]
+
+
+[color=#477238][head=3]////////////////////////////////////////////////////[/head][/color]
+[italic]If you disagree with this denial, you may file an appeal, which will be reviewed by the same CCV who denied your original request.[/italic]
