@@ -10,8 +10,8 @@
 [bold]Complainant: [/bold] NAME
 [bold]Position: [/bold] POSITION
 
-[head=3]]Complaint Against:[/head]
-[bold]Subject/Department: [/bold] NAME
+[bold]Complaint Against:[/bold]
+• 
 
 [bold]Summary of Complaint:[/bold]
 
