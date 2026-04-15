@@ -1,13 +1,13 @@
 # Do Not Revive Order
-                            [color=#1b67a5]╔══════════════════╗
-                            ║███░███░░░░██░░░░░║
-                            ║░██░████░░░██░░░░░║
-                            ║░░█░██░██░░██░█░░░║
-                            ║░░░░██░░██░██░██░░║
-                            ║░░░░██░░░████░███░║
-                            ╚══════════════════╝[/color]
-          [head=2][bold]DO NOT REVIVE ORDER[/bold][/head]
-[head=3][mono]SECURITY DIRECTIVE - MEDICAL NON-INTERVENTION[/mono][/head]
+                             [color=#1b67a5]╔══════════════════╗
+                             ║███░███░░░░██░░░░░║
+                             ║░██░████░░░██░░░░░║
+                             ║░░█░██░██░░██░█░░░║
+                             ║░░░░██░░██░██░██░░║
+                             ║░░░░██░░░████░███░║
+                             ╚══════════════════╝[/color]
+                         [head=2][bold]DO NOT REVIVE ORDER[/bold][/head]
+                                [head=3][mono][color=red]SECURITY DIRECTIVE[/color][/mono][/head]
 ══════════════════════════════════════════
 I, [color=#1b67a5][bold]AUTHORIZING OFFICER NAME[/bold][/color], holding the position of [bold]POSITION HERE[/bold], hereby issue this standing order that no resuscitative measures are to be performed on the below-named individual.
 
