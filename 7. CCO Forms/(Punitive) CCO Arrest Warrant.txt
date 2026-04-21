@@ -1,0 +1,31 @@
+# Central Command Arrest Warrant
+[color=#477238]
+█▀▀▀▀█ [head=2]CENTRAL COMMAND DIRECTIVE[/head]
+█░██░░ [head=2]ARREST WARRANT[/head]
+█▄▄▄▄█ [head=3][mono]Issued by Central Command[/mono][/head]
+[/color][color=#477238][head=3]////////////////////////////////////////////////////[/head][/color]
+[mono][bold]Shift Time: [/bold] 00:00:00[/mono]
+
+[head=2]Subject Information[/head]
+[bold]Name:[/bold]
+[bold]Position:[/bold]
+
+[head=2]Warrant Details[/head]
+[bold]Charges:[/bold]
+• 
+• 
+• 
+
+[bold]Detail:[/bold]
+
+
+[head=2]Arrest Protocol[/head]
+- Security personnel are hereby directed to detain the subject
+- Subject is not to be released without Central Command approval
+- Force may be used
+
+[head=2]Special Instructions:[/head]
+
+
+[color=#477238][head=3]////////////////////////////////////////////////////[/head][/color]
+[italic][color=#aaaaaa]This warrant issued under direct Central Command authority. Station-level authority does not supersede this directive. Security personnel are to comply immediately.[/italic][/color]
