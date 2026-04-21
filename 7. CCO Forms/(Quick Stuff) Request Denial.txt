@@ -1,0 +1,31 @@
+# Central Command Response
+[color=#477238]
+█▀▀▀▀█ [head=2]CENTCOMM CORRESPONDENCE[/head]
+█░██░░ [head=2]REQUEST RESPONSE[/head]
+█▄▄▄▄█ [head=3][mono]Issued by Central Command[/mono][/head]
+[/color][color=#477238][head=3]////////////////////////////////////////////////////[/head][/color]
+[mono][bold]Shift Time: [/bold] 00:00:00[/mono]
+
+[head=2]Request Summary[/head]
+[bold]Requesting Party: [/bold]Requester Here
+[bold]Request Type: [/bold][ ] ERT [ ] Equipment [ ] Personnel [ ] Other: 
+
+[bold]Request Details:[/bold]
+WRITE HERE
+
+[head=2]Central Command Determination[/head]
+[bold]Status:[/bold] \[ ] APPROVED | \[X] DENIED
+
+[bold]Reason for Denial:[/bold]
+\[ ] Insufficient justification provided
+\[ ] Situation does not meet deployment criteria
+\[ ] Resources currently unavailable
+\[ ] Request falls outside authorized scope
+\[ ] Requesting party lacks proper authority
+\[ ] Other: 
+
+[bold]Additional Notes:[/bold]
+WRITE HERE
+
+[color=#477238][head=3]////////////////////////////////////////////////////[/head][/color]
+[italic][color=#aaaaaa]This response is final and not subject to appeal. Central Command appreciates your understanding and continued service.[/italic][/color]

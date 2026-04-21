@@ -1,0 +1,22 @@
+# Central Command Response
+[color=#477238]
+█▀▀▀▀█ [head=2]CENTCOMM CORRESPONDENCE[/head]
+█░██░░ [head=2]REQUEST RESPONSE[/head]
+█▄▄▄▄█ [head=3][mono]Issued by Central Command[/mono][/head]
+[/color][color=#477238][head=3]////////////////////////////////////////////////////[/head][/color]
+[mono][bold]Shift Time: [/bold] 00:00:00[/mono]
+
+[head=2]Request Summary[/head]
+[bold]Requesting Party: [/bold]Requester Here
+[bold]Request Type:[/bold] [ ] ERT [ ] Equipment [ ] Personnel [ ] Other: 
+
+[bold]Request Details:[/bold]
+WRITE HERE
+
+[head=2]Central Command Determination[/head]
+[bold]Status:[/bold] \[X] APPROVED | \[ ] DENIED
+
+[bold]Additional Instructions / Conditions:[/bold]
+WRITE HERE
+
+[color=#477238][head=3]////////////////////////////////////////////////////[/head][/color][italic][color=#aaaaaa]This approval is effective immediately. Requesting party is authorized to proceed as outlined above.[/italic][/color]

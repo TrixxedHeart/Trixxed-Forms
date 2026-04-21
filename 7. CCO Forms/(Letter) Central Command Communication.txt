@@ -1,0 +1,14 @@
+# Central Command Correspondence
+[color=#1b487e][head=2]    ──────═════  [/head]◥[head=2]N[/head]◣[head=2]  ═════──────[/head]
+[head=2] ────════  [color=#009100][/head][head=3]Central Command[/head][/color][head=2]  ════────[/head][/color]
+[mono][head=3][bold]Time:[/bold][/head] 00:00:00
+[head=3][bold]Subject:[/bold][/head] SUBJECT HERE
+[head=3][bold]To:[/bold][/head] RECEPIENT HERE
+[head=3][bold]From:[/bold][/head] SENDER HERE[/mono]
+[head=2][color=#1b487e]─────────────═ · ═─────────────[/color][/head]
+     Greeting Here,
+
+Body Text
+
+     Signoff,
+[head=2][color=#1b487e]─────────────═ · ═─────────────[/color][/head]
