@@ -1,9 +1,9 @@
 # Central Command Execution Authorization
-[color=green]
+[color=#477238]
 █▀▀▀▀█ [head=2]CENTRAL COMMAND DIRECTIVE[/head]
 █░██░░ [head=2]EXECUTION AUTHORIZATION[/head]
 █▄▄▄▄█ [head=3][mono]Issued by Central Command[/mono][/head]
-[/color][color=green][head=3]////////////////////////////////////////////////////[/head][/color]
+[/color][color=#477238][head=3]////////////////////////////////////////////////////[/head][/color]
 [mono][bold]Shift Time: [/bold] 00:00:00[/mono]
 
 [head=2]Subject Information[/head]
@@ -22,5 +22,4 @@ Insert Reasoning Here
 [bold]Disposition of Remains:[/bold]
 Instert 
 
-[color=green][head=3]////////////////////////////////////////////////////[/head][/color]
-[italic][color=#aaaaaa]This directive is issued under the absolute authority of Central Command. Station-level protocols do not supersede this order. This document is not valid without an official Central Command approval stamp.[/italic][/color]
+[color=#477238][head=3]////////////////////////////////////////////////////[/head][/color][italic][color=#aaaaaa]This directive is issued under the absolute authority of Central Command. Station-level protocols do not supersede this order. This document is not valid without an official Central Command approval stamp.[/italic][/color]
