@@ -1,0 +1,33 @@
+# Captain's Directive of Confinement
+[color=#1b67a5]
+░░██░░ [head=2]CAPTAIN'S DIRECTIVE[/head]
+▀████▀ [head=2]CONFINEMENT ORDER[/head]
+▄█▀▀█▄ [head=3][mono]Issued by NAME HERE[/mono][/head]
+[/color][color=#1b67a5][head=3]////////////////////////////////////////////////////[/head][/color]
+[mono][bold]Shift Time: [/bold] 00:00:00[/mono]
+
+[head=2]Subject Information[/head]
+[bold]Name:[/bold] 
+[bold]Position:[/bold] 
+
+[head=2]Reason for Confinement[/head]
+[bold]Violation / Misconduct Observed:[/bold]
+• 
+• 
+• 
+
+[bold]Details of Incident:[/bold]
+WRITE HERE
+
+[head=2]Confinement Protocol[/head]
+[head=2]Confinement Protocol[/head]
+Pursuant to Captain SOP §8, the following order is issued against the above named Central Command Staff:
+- Subject is to be confined to their quarters pending Central Command response or otherwise resolve of the situation
+- Subject is not to perform official duties during confinement
+- Security personnel are to ensure compliance
+- Subject retains right to communicate with Central Command via fax
+
+[bold]Central Command Notification:[/bold] A copy of this form and details of the situation MUST be faxed to Central Command immediately.
+
+[color=#1b67a5][head=3]////////////////////////////////////////////////////[/head][/color]
+[italic][color=#aaaaaa]This order remains in effect until Central Command responds or the situation is otherwise resolved.[/italic][/color]
