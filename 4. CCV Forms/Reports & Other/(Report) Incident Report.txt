@@ -1,0 +1,19 @@
+# Incident Report
+[color=#477238]
+▀█▀░░░ [head=2]CENTRAL COMMAND[/head]
+▄█▄▄▀▄ [head=2]INCIDENT REPORT[/head]
+░░░█▀█ [head=3][mono]Reported by NAME HERE[/mono][/head]
+[/color][color=#477238][head=3]////////////////////////////////////////////////////[/head][/color]
+
+[bold]Subject(s): [/bold] NAME
+[bold]Position(s): [/bold] POSITION
+[bold]Shift Time: [/bold] 00:00:00
+
+[bold]Incident Detail:[/bold]
+
+
+[bold]Suggested Action:[/bold]
+
+
+[color=#477238][head=3]////////////////////////////////////////////////////[/head][/color]
+[italic]By signing, I confirm this information is accurate.[/italic]
