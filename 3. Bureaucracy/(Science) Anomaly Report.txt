@@ -1,0 +1,16 @@
+# Anomaly Report
+[color=#9C27B0]░▄▄██░ [head=2] SCIENCE DIVISION[/head]
+▄█▀██░ [head=3] ANOMALY REPORT[/head]
+██▄▄▄░ [head=3] [mono]Report By YOUR NAME HERE[/mono][/head]
+[head=3]////////////////////////////////////////////////////[/head][/color]
+[mono][bold]Shift Time:[/bold] 00:00:00[/mono]
+[mono][bold]Location:[/bold] LOCATION[/mono]
+[mono][bold]Assigned Scientist:[/bold] NAME[/mono]
+[mono][bold]Type: [/bold]ANOMALY TYPE[/mono]
+[mono][bold]Containment: [/bold]CONTAINMENT[/mono]
+[color=#9C27B0][head=3]////////////////////////////////////////////////////[/head][/color]
+[mono][head=3]Additional Notes (Optional):[/head][/mono]
+N/A
+
+[color=#9C27B0][head=3]////////////////////////////////////////////////////[/head][/color]
+[italic][color=#aaaaaa]The assigned scientist assumes full responsibility for the containment and stability of the above-listed anomaly. Should the anomaly go critical or otherwise fail to be properly contained, the assigned scientist accepts liability for any and all damage to station assets, personnel, and reality itself.[/italic][/color]
