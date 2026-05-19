@@ -2,34 +2,37 @@
 [color=#477238]
 ▀█▀░░░ [head=2]PERSONNEL REVIEW[/head]
 ▄█▄▄▀▄ [head=2]PERFORMANCE ASSESSMENT[/head]
-░░░█▀█ [head=3][mono]Reviewed by NAME HERE[/mono][/head]
+░░░█▀█ [head=3][mono]Performed by SIGNEE[/mono][/head]
 [/color][color=#477238][head=3]////////////////////////////////////////////////////[/head][/color]
-
-[bold]Subject(s): [/bold] NAME
-[bold]Position(s): [/bold] POSITION
+[mono][bold]Subject: [/bold] NAME
+[bold]Position: [/bold] POSITION
 [bold]Shift Time: [/bold] 00:00:00
+[/mono][color=#477238][head=3]////////////////////////////////////////////////////[/head][/color]
+[head=2][mono]REVIEW SUMMARY[/mono][/head]
+
+WRITE HERE
 
 [color=#477238][head=3]////////////////////////////////////////////////////[/head][/color]
 
 [bold]SOP Knowledge & Application[/bold]
-\[ ] Exceptional | \[ ] Satisfactory | \[ ] Needs Improvement | \[ ] Unsatisfactory
-
+\[ ] Exceptional | \[ ] Satisfactory
+\[ ] Needs Improvement | \[ ] Unsatisfactory
 
 [bold]Chain of Command Adherence[/bold]
-\[ ] Exceptional | \[ ] Satisfactory | \[ ] Needs Improvement | \[ ] Unsatisfactory
-
+\[ ] Exceptional | \[ ] Satisfactory
+\[ ] Needs Improvement | \[ ] Unsatisfactory
 
 [bold]Professional Conduct & Composure[/bold]
-\[ ] Exceptional | \[ ] Satisfactory | \[ ] Needs Improvement | \[ ] Unsatisfactory
-
+\[ ] Exceptional | \[ ] Satisfactory
+\[ ] Needs Improvement | \[ ] Unsatisfactory
 
 [bold]Judgment & Decision Making[/bold]
-\[ ] Exceptional | \[ ] Satisfactory | \[ ] Needs Improvement | \[ ] Unsatisfactory
-
+\[ ] Exceptional | \[ ] Satisfactory
+\[ ] Needs Improvement | \[ ] Unsatisfactory
 
 [bold]Response to Central Command Authority[/bold]
-\[ ] Exceptional | \[ ] Satisfactory | \[ ] Needs Improvement | \[ ] Unsatisfactory
-
+\[ ] Exceptional | \[ ] Satisfactory
+\[ ] Needs Improvement | \[ ] Unsatisfactory
 
 [color=#477238][head=3]////////////////////////////////////////////////////[/head][/color]
 [italic]By signing, I confirm this review accurately reflects the subject's performance.[/italic]
