@@ -2,11 +2,11 @@
 [color=#9C27B0]
 ▀█▀░░░ [head=2]IA DEPARTMENTAL AUDIT[/head]
 ▄█▄▄▀▄ [head=2]DEPARTMENT - SCIENCE[/head]
-░░░█▀█ [head=3][mono]Audited by YOUR NAME HERE[/mono][/head]
+░░░█▀█ [head=3][mono]AUDITOR: SIGNEE[/mono][/head]
 [/color][color=#9C27B0][head=3]////////////////////////////////////////////////////[/head][/color]
           [head=2][mono]SUMMARY & COMPLIANCE RATING[/mono][/head]
 
-[bold]Shift Time: [/bold] 00:00:00
+[mono][bold]Shift Time: [/bold] 00:00:00[/mono]
 
 [head=3]Overall Department Grade:[/head]
 \[ ] EXEMPLARY | \[ ] SATISFACTORY
@@ -22,31 +22,31 @@ WRITE HERE
 
 [bold]Research Director Oversight[/bold]
 \[ ] Meets standards | \[ ] Needs improvement
-\[ ] Critical failure | \[ ] Irrelevant
+\[ ] Critical failure | \[ ] Irrelevant/Unknown
 
 [bold]Artifact & Anomaly Management[/bold]
 \[ ] Meets standards | \[ ] Needs improvement
-\[ ] Critical failure | \[ ] Irrelevant
+\[ ] Critical failure | \[ ] Irrelevant/Unknown
 
 [bold]Protolathe & Weapon Distribution[/bold]
 \[ ] Meets standards | \[ ] Needs improvement
-\[ ] Critical failure | \[ ] Irrelevant
+\[ ] Critical failure | \[ ] Irrelevant/Unknown
 
 [bold]Robotics & Silicon Compliance[/bold]
 \[ ] Meets standards | \[ ] Needs improvement
-\[ ] Critical failure | \[ ] Irrelevant
+\[ ] Critical failure | \[ ] Irrelevant/Unknown
 
 [bold]Experimentation Ethics & Safety[/bold]
 \[ ] Meets standards | \[ ] Needs improvement
-\[ ] Critical failure | \[ ] Irrelevant
+\[ ] Critical failure | \[ ] Irrelevant/Unknown
 
 [bold]Personnel Conduct & Professionalism[/bold]
 \[ ] Meets standards | \[ ] Needs improvement
-\[ ] Critical failure | \[ ] Irrelevant
+\[ ] Critical failure | \[ ] Irrelevant/Unknown
 
 [color=#9C27B0][head=3]////////////////////////////////////////////////////[/head][/color]
 [head=2]Additional Comments:[/head]
 
-WRITE HERE
+None
 
 [color=#9C27B0][head=3]////////////////////////////////////////////////////[/head][/color]

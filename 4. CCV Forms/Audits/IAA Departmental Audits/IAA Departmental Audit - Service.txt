@@ -2,11 +2,11 @@
 [color=darkgreen]
 ▀█▀░░░ [head=2]IA DEPARTMENTAL AUDIT[/head]
 ▄█▄▄▀▄ [head=2]DEPARTMENT - SERVICE[/head]
-░░░█▀█ [head=3][mono]Audited by YOUR NAME HERE[/mono][/head]
+░░░█▀█ [head=3][mono]AUDITOR: SIGNEE[/mono][/head]
 [/color][color=darkgreen][head=3]////////////////////////////////////////////////////[/head][/color]
           [head=2][mono]SUMMARY & COMPLIANCE RATING[/mono][/head]
 
-[bold]Shift Time: [/bold] 00:00:00
+[mono][bold]Shift Time: [/bold] 00:00:00[/mono]
 
 [head=3]Overall Department Grade:[/head]
 \[ ] EXEMPLARY | \[ ] SATISFACTORY
@@ -22,43 +22,43 @@ WRITE HERE
 
 [bold]Head of Personnel Oversight[/bold]
 \[ ] Meets standards | \[ ] Needs improvement
-\[ ] Critical failure | \[ ] Irrelevant
+\[ ] Critical failure | \[ ] Irrelevant/Unknown
 
 [bold]Kitchen Operations[/bold]
 \[ ] Meets standards | \[ ] Needs improvement
-\[ ] Critical failure | \[ ] Irrelevant
+\[ ] Critical failure | \[ ] Irrelevant/Unknown
 
 [bold]Bar Operations[/bold]
 \[ ] Meets standards | \[ ] Needs improvement
-\[ ] Critical failure | \[ ] Irrelevant
+\[ ] Critical failure | \[ ] Irrelevant/Unknown
 
 [bold]Hydroponics Compliance[/bold]
 \[ ] Meets standards | \[ ] Needs improvement
-\[ ] Critical failure | \[ ] Irrelevant
+\[ ] Critical failure | \[ ] Irrelevant/Unknown
 
 [bold]Media Compliance (Reporter)[/bold]
 \[ ] Meets standards | \[ ] Needs improvement
-\[ ] Critical failure | \[ ] Irrelevant
+\[ ] Critical failure | \[ ] Irrelevant/Unknown
 
 [bold]Entertainment Roles (Clown/Mime/Musician)[/bold]
 \[ ] Meets standards | \[ ] Needs improvement
-\[ ] Critical failure | \[ ] Irrelevant
+\[ ] Critical failure | \[ ] Irrelevant/Unknown
 
 [bold]Religious Services (Chaplain)[/bold]
 \[ ] Meets standards | \[ ] Needs improvement
-\[ ] Critical failure | \[ ] Irrelevant
+\[ ] Critical failure | \[ ] Irrelevant/Unknown
 
 [bold]Janitorial Maintenance (Janitor)[/bold]
 \[ ] Meets standards | \[ ] Needs improvement
-\[ ] Critical failure | \[ ] Irrelevant
+\[ ] Critical failure | \[ ] Irrelevant/Unknown
 
 [bold]Personnel Conduct & Professionalism[/bold]
 \[ ] Meets standards | \[ ] Needs improvement
-\[ ] Critical failure | \[ ] Irrelevant
+\[ ] Critical failure | \[ ] Irrelevant/Unknown
 
 [color=darkgreen][head=3]////////////////////////////////////////////////////[/head][/color]
 [head=2]Additional Comments:[/head]
 
-WRITE HERE
+None
 
 [color=darkgreen][head=3]////////////////////////////////////////////////////[/head][/color]

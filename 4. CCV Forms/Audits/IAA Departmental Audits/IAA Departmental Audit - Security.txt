@@ -2,11 +2,11 @@
 [color=Crimson]
 ▀█▀░░░ [head=2]IA DEPARTMENTAL AUDIT[/head]
 ▄█▄▄▀▄ [head=2]DEPARTMENT - SECURITY[/head]
-░░░█▀█ [head=3][mono]Audited by YOUR NAME HERE[/mono][/head]
+░░░█▀█ [head=3][mono]AUDITOR: SIGNEE[/mono][/head]
 [/color][color=Crimson][head=3]////////////////////////////////////////////////////[/head][/color]
           [head=2][mono]SUMMARY & COMPLIANCE RATING[/mono][/head]
 
-[bold]Shift Time: [/bold] 00:00:00
+[mono][bold]Shift Time: [/bold] 00:00:00[/mono]
 
 [head=3]Overall Department Grade:[/head]
 \[ ] EXEMPLARY | \[ ] SATISFACTORY
@@ -22,35 +22,35 @@ WRITE HERE
 
 [bold]Head of Security Oversight[/bold]
 \[ ] Meets standards | \[ ] Needs improvement
-\[ ] Critical failure | \[ ] Irrelevant
+\[ ] Critical failure | \[ ] Irrelevant/Unknown
 
 [bold]Arrest & Detainee Processing Procedures[/bold]
 \[ ] Meets standards | \[ ] Needs improvement
-\[ ] Critical failure | \[ ] Irrelevant
+\[ ] Critical failure | \[ ] Irrelevant/Unknown
 
 [bold]Use of Force & Weapons Protocol[/bold]
 \[ ] Meets standards | \[ ] Needs improvement
-\[ ] Critical failure | \[ ] Irrelevant
+\[ ] Critical failure | \[ ] Irrelevant/Unknown
 
 [bold]Evidence & Contraband Management[/bold]
 \[ ] Meets standards | \[ ] Needs improvement
-\[ ] Critical failure | \[ ] Irrelevant
+\[ ] Critical failure | \[ ] Irrelevant/Unknown
 
 [bold]Armory & Equipment Accountability[/bold]
 \[ ] Meets standards | \[ ] Needs improvement
-\[ ] Critical failure | \[ ] Irrelevant
+\[ ] Critical failure | \[ ] Irrelevant/Unknown
 
 [bold]Personnel Conduct & Rules of Conduct[/bold]
 \[ ] Meets standards | \[ ] Needs improvement
-\[ ] Critical failure | \[ ] Irrelevant
+\[ ] Critical failure | \[ ] Irrelevant/Unknown
 
 [bold]Brig Facilities & Security Systems[/bold]
 \[ ] Meets standards | \[ ] Needs improvement
-\[ ] Critical failure | \[ ] Irrelevant
+\[ ] Critical failure | \[ ] Irrelevant/Unknown
 
 [color=Crimson][head=3]////////////////////////////////////////////////////[/head][/color]
 [head=2]Additional Comments:[/head]
 
-WRITE HERE
+None
 
 [color=Crimson][head=3]////////////////////////////////////////////////////[/head][/color]
