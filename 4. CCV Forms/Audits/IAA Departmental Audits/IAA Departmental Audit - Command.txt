@@ -1,0 +1,56 @@
+# IAA Audit - Command
+[color=#1b67a5]
+▀█▀░░░ [head=2]IA DEPARTMENTAL AUDIT[/head]
+▄█▄▄▀▄ [head=2]DEPARTMENT - COMMAND[/head]
+░░░█▀█ [head=3][mono]AUDITOR: SIGNEE[/mono][/head]
+[/color][color=#1b67a5][head=3]////////////////////////////////////////////////////[/head][/color]
+          [head=2][mono]SUMMARY & COMPLIANCE RATING[/mono][/head]
+
+[mono][bold]Shift Time: [/bold] 00:00:00[/mono]
+
+[head=3]Overall Department Grade:[/head]
+\[ ] EXEMPLARY | \[ ] SATISFACTORY
+\[ ] DEFICIENT   | \[ ] CONDEMNED
+
+[color=#1b67a5][head=3]////////////////////////////////////////////////////[/head][/color]
+[head=2][mono]FINDINGS & RECOMMENDATIONS:[/mono][/head]
+
+WRITE HERE
+
+[color=#1b67a5][head=3]////////////////////////////////////////////////////[/head][/color]
+   [head=2][mono]OPERATIONAL ASSESSMENT[/mono][/head]
+
+[bold]Captain Oversight & Command Presence[/bold]
+\[ ] Meets standards | \[ ] Needs improvement
+\[ ] Critical failure | \[ ] Irrelevant/Unknown
+
+[bold]Chain of Command Adherence[/bold]
+\[ ] Meets standards | \[ ] Needs improvement
+\[ ] Critical failure | \[ ] Irrelevant/Unknown
+
+[bold]Corporate Policy Compliance[/bold]
+\[ ] Meets standards | \[ ] Needs improvement
+\[ ] Critical failure | \[ ] Irrelevant/Unknown
+
+[bold]Asset Management[/bold]
+\[ ] Meets standards | \[ ] Needs improvement
+\[ ] Critical failure | \[ ] Irrelevant/Unknown
+
+[bold]Interdepartmental Coordination[/bold]
+\[ ] Meets standards | \[ ] Needs improvement
+\[ ] Critical failure | \[ ] Irrelevant/Unknown
+
+[bold]Crisis Response & Decision Making[/bold]
+\[ ] Meets standards | \[ ] Needs improvement
+\[ ] Critical failure | \[ ] Irrelevant/Unknown
+
+[bold]Leadership Conduct & Professionalism[/bold]
+\[ ] Meets standards | \[ ] Needs improvement
+\[ ] Critical failure | \[ ] Irrelevant/Unknown
+
+[color=#1b67a5][head=3]////////////////////////////////////////////////////[/head][/color]
+[head=2]Additional Comments:[/head]
+
+None
+
+[color=#1b67a5][head=3]////////////////////////////////////////////////////[/head][/color]
