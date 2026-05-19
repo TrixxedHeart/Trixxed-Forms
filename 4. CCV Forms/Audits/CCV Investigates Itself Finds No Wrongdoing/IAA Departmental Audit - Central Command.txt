@@ -1,0 +1,56 @@
+# IAA Audit - Central Command
+[color=green]
+▀█▀░░░ [head=2]IA DEPARTMENTAL AUDIT[/head]
+▄█▄▄▀▄ [head=2]DIVISION - CENTRAL COMMAND[/head]
+░░░█▀█ [head=3][mono]AUDITOR: SIGNEE[/mono][/head]
+[head=3]////////////////////////////////////////////////////[/head][/color]
+          [head=2][mono]SUMMARY & COMPLIANCE RATING[/mono][/head]
+
+[mono][bold]Shift Time: [/bold] 00:00:00[/mono]
+
+[head=3]Overall Department Grade:[/head]
+\[ ] EXEMPLARY | \[ ] SATISFACTORY
+\[ ] NEEDS IMPROVEMENT | \[ ] UNSATISFACTORY
+
+[color=green][head=3]////////////////////////////////////////////////////[/head][/color]
+[head=2][mono]FINDINGS & RECOMMENDATIONS:[/mono][/head]
+
+WRITE HERE
+
+[color=green][head=3]////////////////////////////////////////////////////[/head][/color]
+   [head=2][mono]OPERATIONAL ASSESSMENT[/mono][/head]
+
+[bold]SOP Knowledge & Application[/bold]
+\[ ] Exceptional | \[ ] Satisfactory
+\[ ] Needs Improvement | \[ ] Irrelevant/Unknown
+
+[bold]Chain of Command Adherence[/bold]
+\[ ] Exceptional | \[ ] Satisfactory
+\[ ] Needs Improvement | \[ ] Irrelevant/Unknown
+
+[bold]Professional Conduct & Composure[/bold]
+\[ ] Exceptional | \[ ] Satisfactory
+\[ ] Needs Improvement | \[ ] Irrelevant/Unknown
+
+[bold]Judgment & Decision Making[/bold]
+\[ ] Exceptional | \[ ] Satisfactory
+\[ ] Needs Improvement | \[ ] Irrelevant/Unknown
+
+[bold]Response to Central Command Authority[/bold]
+\[ ] Exceptional | \[ ] Satisfactory
+\[ ] Needs Improvement | \[ ] Irrelevant/Unknown
+
+[bold]Cooperation with Station Command[/bold]
+\[ ] Exceptional | \[ ] Satisfactory
+\[ ] Needs Improvement | \[ ] Irrelevant/Unknown
+
+[bold]Use of Punitive Authority[/bold]
+\[ ] Exceptional | \[ ] Satisfactory
+\[ ] Needs Improvement | \[ ] Irrelevant/Unknown
+
+[color=green][head=3]////////////////////////////////////////////////////[/head][/color]
+[head=2]Additional Comments:[/head]
+
+None
+
+[color=#009100][head=3]////////////////////////////////////////////////////[/head][/color]
