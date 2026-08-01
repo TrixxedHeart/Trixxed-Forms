@@ -12,7 +12,7 @@
 
 [head=2]Authorization Details[/head]
 [bold]Reason for Execution:[/bold]
-Insert Reasoning Here
+No reason given
 
 [head=2]Execution Protocol[/head]
 - The Captain and Security personnel are hereby directed to carry out this order
