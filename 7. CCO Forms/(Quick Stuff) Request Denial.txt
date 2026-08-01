@@ -11,7 +11,7 @@
 [bold]Request Type: [/bold][ ] ERT [ ] Equipment [ ] Personnel [ ] Other: 
 
 [bold]Request Details:[/bold]
-WRITE HERE
+No request details given
 
 [head=2]Central Command Determination[/head]
 [bold]Status:[/bold] \[ ] APPROVED | \[X] DENIED
@@ -25,6 +25,6 @@ WRITE HERE
 \[ ] Other: 
 
 [bold]Additional Notes:[/bold]
-WRITE HERE
+N/A
 
 [color=#477238][head=3]////////////////////////////////////////////////////[/head][/color][italic][color=#aaaaaa]This response is final and not subject to appeal. Central Command appreciates your understanding and continued service.[/italic][/color]
