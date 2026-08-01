@@ -11,12 +11,12 @@
 [bold]Request Type:[/bold] [ ] ERT [ ] Equipment [ ] Personnel [ ] Other: 
 
 [bold]Request Details:[/bold]
-WRITE HERE
+No request details given
 
 [head=2]Central Command Determination[/head]
 [bold]Status:[/bold] \[X] APPROVED | \[ ] DENIED
 
 [bold]Additional Instructions / Conditions:[/bold]
-WRITE HERE
+N/A
 
 [color=#477238][head=3]////////////////////////////////////////////////////[/head][/color][italic][color=#aaaaaa]This approval is effective immediately. Requesting party is authorized to proceed as outlined above.[/italic][/color]
